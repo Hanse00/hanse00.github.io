@@ -1,6 +1,6 @@
 # ModPlex
 
-What is ModPlex?
+Check out our [FAQ's](FAQ.md)!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at dictum tortor. Integer rutrum enim lobortis nisi efficitur ullamcorper. Pellentesque ex sapien, rhoncus posuere eleifend at, dictum in est. Nunc pellentesque mi et ornare pulvinar. Nunc sagittis nunc leo, ac efficitur enim accumsan pellentesque. Maecenas id accumsan purus. Duis tincidunt, odio id tristique porta, ex eros consectetur nisl, in tincidunt libero ante ac velit. Pellentesque malesuada, nunc vitae pharetra consequat, lorem velit lobortis urna, vitae aliquam felis tellus ornare sem. Praesent vestibulum urna enim, sed egestas orci pharetra ac. Nam a fringilla sem. Sed laoreet vestibulum molestie.
 

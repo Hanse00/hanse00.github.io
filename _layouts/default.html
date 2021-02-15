@@ -13,11 +13,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        {% if site.title %}
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-        {% endif %}
-        
+      <header>        
         {% if site.logo %}
         <a href="{{ "/" | absolute_url }}">
           <img src="{{site.logo | relative_url}}" alt="Logo" />

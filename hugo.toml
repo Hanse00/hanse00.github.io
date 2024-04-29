@@ -1,5 +1,5 @@
 baseURL = 'https://hanse00.github.io/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Hanse00'
 disableKinds = ['taxonomy', 'term']
 

@@ -1,8 +1,8 @@
 <!doctype html>
-<html>
+<html lang="{{ site.Language.LanguageCode }}">
     <head>
         <meta charset="utf-8">
-        <title>{{ .Page.Title }}</title>
+        <title>{{ .Page.Title }} - {{ .Site.Title }}</title>
     </head>
     <body>
         {{ block "main" . }}

@@ -1,5 +1,7 @@
 +++
 title = 'Hello'
+[sitemap]
+    changefreq = 'daily'
 +++
 # Hello World!
 

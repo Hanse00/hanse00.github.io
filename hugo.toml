@@ -2,3 +2,6 @@ baseURL = 'https://hanse00.github.io/'
 languageCode = 'en-us'
 title = 'Hanse00'
 disableKinds = ['taxonomy', 'term']
+
+[sitemap]
+    priority = 0.5

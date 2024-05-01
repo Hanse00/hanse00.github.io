@@ -2,6 +2,23 @@ baseURL = 'https://hanse00.github.io/'
 languageCode = 'en'
 title = 'Hanse00'
 disableKinds = ['taxonomy', 'term']
+theme = 'anubis2'
+
+[author]
+name = "Philip Mallegol-Hansen"
 
 [sitemap]
     priority = 0.5
+
+[params]
+colorTheme = "auto"
+colorThemeSwitcher = true
+rssAsSocialIcon = true
+
+social = [
+    { id = "email", url = "mailto:philip@mallegolhansen.com" },
+    { id = "github", url = "https://github.com/Hanse00" },
+    { id = "linkedin", url = "https://www.linkedin.com/in/philip-mallegol-hansen-534b1a91/" },
+    { id = "mastodon", url = "https://mastodon.mallegolhansen.com/@philip" },
+    { id = "steam", url = "https://steamcommunity.com/id/hanse00" }
+]

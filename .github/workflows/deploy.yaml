@@ -25,6 +25,8 @@ jobs:
           extended: true
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          submodules: true
       - name: Build
         run: hugo
       - name: Configure

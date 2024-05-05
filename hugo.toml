@@ -5,7 +5,7 @@ disableKinds = ['taxonomy', 'term']
 theme = 'anubis2'
 
 [author]
-name = "Philip Mallegol-Hansen"
+name = 'Philip Mallegol-Hansen'
 
 [sitemap]
     priority = 0.5
@@ -23,3 +23,8 @@ social = [
     { id = "mastodon", url = "https://mastodon.mallegolhansen.com/@philip" },
     { id = "steam", url = "https://steamcommunity.com/id/hanse00" }
 ]
+
+[params.UmamiAnalytics]
+enabled = true
+id = 'f516ccf4-b76a-42cd-a2e1-7e95426f57e4'
+url = 'https://us.umami.is/script.js'

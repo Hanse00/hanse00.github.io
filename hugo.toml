@@ -3,6 +3,7 @@ languageCode = 'en'
 title = 'Hanse00'
 disableKinds = ['taxonomy', 'term']
 theme = 'anubis2'
+paginate = 100
 
 [author]
 name = 'Philip Mallegol-Hansen'

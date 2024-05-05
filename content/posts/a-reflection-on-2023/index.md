@@ -6,7 +6,7 @@ summary = 'My annual reflection on the year that passed in 2023.'
 [sitemap]
     changefreq = 'daily'
 +++
-On the last day of 2022, exactly one year ago, I wrote a blog post titled “A reflection on 2022”. The opening of that post features a slight mockery of the human tendency to assign value to arbitrary factors we ourselves have decided, such as the beginning and ending of a year on the Gregorian calendar.
+On the last day of 2022, exactly one year ago, I wrote a blog post titled “[A reflection on 2022]({{< ref "a-reflection-on-2022" >}})”. The opening of that post features a slight mockery of the human tendency to assign value to arbitrary factors we ourselves have decided, such as the beginning and ending of a year on the Gregorian calendar.
 
 Intellectually I stand by that thought today. It is odd that we have evolved to put such importance in things that, objectively, carry no importance at all. But that is not to say that I believe myself to be above this tendency, as evident by this post appearing exactly 1 Gregorian year after the past one, and given that it’s happening twice in a row, I suppose that officially makes this a tradition.
 

@@ -4,6 +4,9 @@ title = 'Hanse00'
 theme = 'anubis2'
 paginate = 100
 
+[permalinks]
+posts = '/blog/:slug'
+
 [taxonomies]
 tag = 'tags'
 

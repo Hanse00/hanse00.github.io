@@ -6,6 +6,7 @@ tags = [
     'Reflection',
     '2022'
 ]
+aliases = ['reflection-2022']
 [sitemap]
     changefreq = 'daily'
 +++

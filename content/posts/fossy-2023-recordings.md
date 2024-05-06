@@ -6,6 +6,7 @@ tags = [
     'Technology',
     'FOSSY'
 ]
+aliases = ['fossy-2023-video-recordings']
 [sitemap]
     changefreq = 'daily'
 +++

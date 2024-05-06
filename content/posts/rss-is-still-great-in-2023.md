@@ -2,6 +2,11 @@
 title = 'RSS Is Still Great in 2023'
 date = 2023-04-27T16:50:51-07:00
 draft = false
+tags = [
+    'Technology',
+    'RSS',
+    'Open Web'
+]
 [sitemap]
     changefreq = 'daily'
 +++

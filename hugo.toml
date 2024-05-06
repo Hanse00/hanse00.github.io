@@ -1,9 +1,11 @@
 baseURL = 'https://hanse00.github.io/'
 languageCode = 'en'
 title = 'Hanse00'
-disableKinds = ['taxonomy', 'term']
 theme = 'anubis2'
 paginate = 100
+
+[taxonomies]
+tag = 'tags'
 
 [author]
 name = 'Philip Mallegol-Hansen'
@@ -29,3 +31,15 @@ social = [
 enabled = true
 id = 'f516ccf4-b76a-42cd-a2e1-7e95426f57e4'
 url = 'https://us.umami.is/script.js'
+
+[[menu.main]]
+identifier = 'home'
+name = 'Home'
+url = '/'
+weight = 1
+
+[[menu.main]]
+identifier = 'tags'
+name = 'Tags'
+url = '/tags/'
+weight = 2

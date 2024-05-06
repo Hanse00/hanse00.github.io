@@ -2,6 +2,11 @@
 title = 'What Is It That I Do?'
 date = 2024-04-04T21:58:15-07:00
 draft = false
+tags = [
+    'Work',
+    'Career',
+    'Consulting'
+]
 [sitemap]
     changefreq = 'daily'
 +++

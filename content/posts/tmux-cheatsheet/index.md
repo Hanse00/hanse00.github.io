@@ -3,6 +3,12 @@ title = 'tmux Cheatsheet'
 date = 2024-02-22T11:01:25-07:00
 draft = false
 summary = "A friend's handy tmux cheatsheet."
+tags = [
+    'Technology',
+    'tmux',
+    'Cheatsheet',
+    'Reference'
+]
 [sitemap]
     changefreq = 'daily'
 +++

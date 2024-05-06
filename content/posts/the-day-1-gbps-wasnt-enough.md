@@ -3,6 +3,10 @@ title = "The Day 1 Gbps Wasn't Enough"
 date = 2023-09-28T17:28:41-07:00
 draft = false
 summary = 'I finally crossed the threshold into Gigabit per second territory.'
+tags = [
+    'Technology',
+    'Networking'
+]
 [sitemap]
     changefreq = 'daily'
 +++

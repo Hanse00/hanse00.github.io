@@ -2,6 +2,13 @@
 title = 'Triple Booting macOS, Ubuntu, and Windows'
 date = 2020-03-20T16:15:32-07:00
 draft = false
+tags = [
+    'Technology',
+    'Apple',
+    'macOS',
+    'Ubuntu',
+    'Windows'
+]
 [sitemap]
     changefreq = 'daily'
 +++

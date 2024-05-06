@@ -2,6 +2,12 @@
 title = 'Factorio Container'
 date = 2020-05-14T16:33:42-07:00
 draft = false
+tags = [
+    'Technology',
+    'Gaming',
+    'Factorio',
+    'Container'
+]
 [sitemap]
     changefreq = 'daily'
 +++

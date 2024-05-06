@@ -3,6 +3,10 @@ title = 'Publish Whatever You Want'
 date = 2023-08-09T17:15:53-07:00
 draft = false
 summary = 'Don’t let perfect be the enemy of good.'
+tags = [
+    'Opinion',
+    'Writing'
+]
 [sitemap]
     changefreq = 'daily'
 +++

@@ -3,6 +3,10 @@ title = 'A Reflection on 2023'
 date = 2023-12-31T18:22:41-07:00
 draft = false
 summary = 'My annual reflection on the year that passed in 2023.'
+tags = [
+    'Reflection',
+    '2023'
+]
 [sitemap]
     changefreq = 'daily'
 +++

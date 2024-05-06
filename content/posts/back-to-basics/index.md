@@ -2,6 +2,11 @@
 title = 'Back to Basics'
 date = 2024-01-21T17:49:20-07:00
 draft = false
+tags = [
+    'Technology',
+    'Web',
+    'Open Web'
+]
 [sitemap]
     changefreq = 'daily'
 +++

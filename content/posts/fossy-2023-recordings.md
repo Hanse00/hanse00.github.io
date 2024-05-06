@@ -2,6 +2,10 @@
 title = 'Fossy 2023 Recordings'
 date = 2023-09-10T17:22:29-07:00
 draft = false
+tags = [
+    'Technology',
+    'FOSSY'
+]
 [sitemap]
     changefreq = 'daily'
 +++

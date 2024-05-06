@@ -2,6 +2,12 @@
 title = 'Just an HTML Document'
 date = 2024-01-23T18:03:08-07:00
 draft = false
+tags = [
+    'Technology',
+    'HTML',
+    'Reference',
+    'Web'
+]
 [sitemap]
     changefreq = 'daily'
 +++

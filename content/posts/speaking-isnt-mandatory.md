@@ -2,6 +2,10 @@
 title = "Speaking Isn't Mandatory"
 date = 2023-10-12T10:42:55-07:00
 draft = false
+tags = [
+    'Society',
+    'Opinion'
+]
 [sitemap]
     changefreq = 'daily'
 +++

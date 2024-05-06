@@ -3,6 +3,12 @@ title = 'Apple Vision Pro'
 date = 2024-02-11T17:34:35-07:00
 draft = false
 summary = 'A few thoughts on my experience with the Apple Vision Pro demo.'
+tags = [
+    'Technology',
+    'Apple',
+    'Vision Pro',
+    'AR'
+]
 [sitemap]
     changefreq = 'daily'
 +++

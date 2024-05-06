@@ -2,6 +2,10 @@
 title = 'A Reflection on 2022'
 date = 2022-12-31T18:24:30-07:00
 draft = false
+tags = [
+    'Reflection',
+    '2022'
+]
 [sitemap]
     changefreq = 'daily'
 +++

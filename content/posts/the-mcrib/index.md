@@ -2,6 +2,11 @@
 title = 'The McRib'
 date = 2023-11-20T10:29:23-07:00
 draft = false
+tags = [
+    'Food',
+    'Fast Food',
+    'Review'
+]
 [sitemap]
     changefreq = 'daily'
 +++

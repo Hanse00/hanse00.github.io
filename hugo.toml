@@ -21,6 +21,8 @@ colorTheme = "auto"
 colorThemeSwitcher = true
 rssAsSocialIcon = true
 toc = false
+readNextPosts = 0
+dateFormat = "Jan 2 2006"
 
 social = [
     { id = "email", url = "mailto:philip@mallegolhansen.com" },

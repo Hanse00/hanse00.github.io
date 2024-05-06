@@ -9,6 +9,8 @@ Earlier this summer I had the pleasure of attending the first ever [FOSSY confer
 
 I had a pleasant time getting to know new faces in the FOSS community. As my first conference since moving to the US, it was great to get back out there and feel that sense of community that can sometimes be fleeting when working from home.
 
+<!--more-->
+
 As is often the case at conferences, I was unable to attend all of the presentations that I had wished to, and so I was excited to view some of the recordings after the fact. Unfortunately the conference organizers didn’t do a great job making it clear where to find those recordings[^2], so when a recent [Fediverse post](https://fosstodon.org/@linux_mclinuxface/111026066106336886) gave me the context I was missing, I felt compelled to share. I hope having it posted somewhere on the web will help others find the videos.
 
 [^1]: Free and Open Source Software Yearly.

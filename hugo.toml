@@ -1,6 +1,6 @@
-baseURL = 'https://hanse00.github.io/'
+baseURL = 'https://philip.mallegolhansen.com/'
 languageCode = 'en'
-title = 'Hanse00'
+title = 'Philip Mallegol-Hansen'
 theme = 'anubis2'
 paginate = 100
 

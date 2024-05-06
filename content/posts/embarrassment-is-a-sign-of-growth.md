@@ -4,7 +4,7 @@ date = 2024-05-06T07:25:00-07:00
 draft = false
 tags = [
     'Opinion',
-    'Writing
+    'Writing'
 ]
 [sitemap]
     changefreq = 'monthly'

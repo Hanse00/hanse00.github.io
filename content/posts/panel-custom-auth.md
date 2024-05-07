@@ -14,7 +14,7 @@ tags = [
 +++
 I've recently been using the [Panel](https://panel.holoviz.org) framework on a Python project.
 
-Deep in the bowls of the documentation, it is [mentioned](https://panel.holoviz.org/how_to/authentication/providers.html#plugins) that a custom auth plugin can be provided if a project needs to use a different authentication mechanism than those bundled with the framework, which is exactly what I needed.
+Deep in the bowels of the documentation, it is [mentioned](https://panel.holoviz.org/how_to/authentication/providers.html#plugins) that a custom auth plugin can be provided if a project needs to use a different authentication mechanism than those bundled with the framework, which is exactly what I needed.
 
 <!--more-->
 

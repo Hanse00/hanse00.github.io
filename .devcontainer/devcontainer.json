@@ -1,0 +1,13 @@
+{
+    "name": "Hugo",
+    "forwardPorts": [
+        1313
+    ] ,
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "version": "0.125.4",
+            "extended": true
+        }
+    },
+    "image": "mcr.microsoft.com/devcontainers/base:bookworm"
+}

@@ -1,9 +1,12 @@
 +++
 title = "I'm Not Worried for My Career"
 date = 2024-05-14T15:58:30Z
-draft = true
+draft = false
 tags = [
-    'Tag'
+    'GenAI',
+    'LLM',
+    'Opinion',
+    'Technology'
 ]
 [sitemap]
     changefreq = 'monthly'
@@ -58,3 +61,19 @@ They can hire me to come make modifications in the future, they can hire someone
 But what if the code I *wrote* for them was never *mine* in the first place?
 
 Legal battles are unfolding to answer questions exactly like this, [developers are suing GitHub](https://githubcopilotlitigation.com/), and [newspapers are suing OpenAI](https://www.reuters.com/legal/transactional/ny-times-sues-openai-microsoft-infringing-copyrighted-work-2023-12-27/).
+
+What exactly the answers to these legal questions will be, I don't know. But if I was hiring people to do work for me, I'd err on the side of wanting to be confident the work actually belongs to me.
+
+# The Computer Knows How - Not Why
+
+Drawing another analogy to the physical world: there are [many ways to build a bridge](https://en.wikipedia.org/wiki/List_of_bridge_types). Each bridge type undoubtedly has a laundry list of pros and cons, costs, time to build, difficulty to service, ability to withstand natural disassters, and more. I'm not a civil engineer, and I have no idea how these different bridge types stack up against each other. But I mention all of this, because the same characteristics are true about software.
+
+There are many ways to build working software, from monoliths to microservices, dynamic vs. statically linked dependencies, object oriented vs. functional. As with bridges, there are many choices to make along the way when designing software, and there is no one *correct* answer. It takes understanding the context in which you are building, to make the best possible choice.
+
+* Are we trying to get someone out the door as fast as possible, to demo to potential investors, so that we can get money to build the *real thing* later?
+
+* Are we building in a life-or-death scenario, where the guaranteed correctness of our software outweighs financial concerns?
+
+* Do we anticipate that our code will be in use for months, years, or decades? The longer it is, the more likely we will need to deal with transitioning to new hardware, new maintanence staff, etc.
+
+These and more, are the kinds of considerations that set you up to design software fit for its purpose. As it stands, there's no indication LLMs will be capable of taking on this mental labor.

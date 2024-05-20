@@ -5,6 +5,4 @@ draft = true
 tags = [
     'Tag'
 ]
-[sitemap]
-    changefreq = 'daily'
 +++

@@ -15,6 +15,7 @@ name = 'Philip Mallegol-Hansen'
 
 [sitemap]
     priority = 0.5
+    changefreq = 'monthly'
 
 [params]
 colorTheme = "auto"

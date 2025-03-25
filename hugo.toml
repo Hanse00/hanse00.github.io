@@ -1,17 +1,16 @@
 baseURL = 'https://philip.mallegolhansen.com/'
-languageCode = 'en'
+languageCode = 'en-US'
 title = 'Philip Mallegol-Hansen'
 theme = 'anubis2'
-paginate = 100
+
+[pagination]
+pagerSize = 100
 
 [permalinks]
 posts = '/blog/:slug'
 
 [taxonomies]
 tag = 'tags'
-
-[author]
-name = 'Philip Mallegol-Hansen'
 
 [sitemap]
     priority = 0.5
@@ -32,6 +31,9 @@ social = [
     { id = "mastodon", url = "https://mastodon.mallegolhansen.com/@philip" },
     { id = "steam", url = "https://steamcommunity.com/id/hanse00" }
 ]
+
+[params.author]
+name = 'Philip Mallegol-Hansen'
 
 [params.UmamiAnalytics]
 enabled = true

@@ -47,7 +47,13 @@ url = '/'
 weight = 1
 
 [[menu.main]]
+identifier = 'now'
+name = 'Now'
+url = '/now'
+weight = 2
+
+[[menu.main]]
 identifier = 'tags'
 name = 'Tags'
 url = '/tags/'
-weight = 2
+weight = 3

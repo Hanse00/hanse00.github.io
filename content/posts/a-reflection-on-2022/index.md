@@ -1,6 +1,6 @@
 +++
 title = 'A Reflection on 2022'
-date = 2022-12-31T18:24:30-07:00
+date = 2022-12-31T18:24:30-08:00
 draft = false
 tags = [
     'Reflection',

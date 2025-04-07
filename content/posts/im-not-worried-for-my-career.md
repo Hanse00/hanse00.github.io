@@ -1,6 +1,6 @@
 +++
 title = "I'm Not Worried for My Career"
-date = 2024-05-14T15:58:30Z
+date = 2024-05-14T10:22:00-07:00
 draft = false
 tags = [
     'GenAI',

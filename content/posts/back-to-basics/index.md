@@ -1,6 +1,6 @@
 +++
 title = 'Back to Basics'
-date = 2024-01-21T17:49:20-07:00
+date = 2024-01-21T17:49:20-08:00
 draft = false
 tags = [
     'Technology',

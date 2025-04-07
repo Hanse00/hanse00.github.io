@@ -1,6 +1,6 @@
 +++
 title = 'Apple Vision Pro'
-date = 2024-02-11T17:34:35-07:00
+date = 2024-02-11T17:34:35-08:00
 draft = false
 summary = 'A few thoughts on my experience with the Apple Vision Pro demo.'
 tags = [

@@ -1,6 +1,6 @@
 +++
 title = 'The McRib'
-date = 2023-11-20T10:29:23-07:00
+date = 2023-11-20T10:29:23-08:00
 draft = false
 tags = [
     'Food',

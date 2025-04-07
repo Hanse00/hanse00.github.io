@@ -1,6 +1,6 @@
 +++
 title = 'Hugo Dev Container'
-date = 2024-05-07T16:14:17Z
+date = 2024-05-07T09:33:00-07:00
 draft = false
 tags = [
     'Technology',

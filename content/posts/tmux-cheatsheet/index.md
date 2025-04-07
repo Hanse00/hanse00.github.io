@@ -1,6 +1,6 @@
 +++
 title = 'tmux Cheatsheet'
-date = 2024-02-22T11:01:25-07:00
+date = 2024-02-22T11:01:25-08:00
 draft = false
 summary = "A friend's handy tmux cheatsheet."
 tags = [

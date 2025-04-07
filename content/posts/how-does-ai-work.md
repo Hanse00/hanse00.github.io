@@ -1,6 +1,6 @@
 +++
 title = 'How Does AI Work?'
-date = 2024-05-20T01:24:54Z
+date = 2024-05-29T18:57:00-07:00
 draft = false
 tags = [
     'GenAI',

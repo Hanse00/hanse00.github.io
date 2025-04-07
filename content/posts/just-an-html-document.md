@@ -1,6 +1,6 @@
 +++
 title = 'Just an HTML Document'
-date = 2024-01-23T18:03:08-07:00
+date = 2024-01-23T18:03:08-08:00
 draft = false
 tags = [
     'Technology',

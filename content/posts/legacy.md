@@ -1,7 +1,7 @@
 +++
 title = 'Legacy'
 date = 2025-07-23T21:46:13-07:00
-draft = true
+draft = false
 tags = [
     'Life'
 ]

@@ -34,7 +34,7 @@ The truth is we don't even really know ourselves. Everything I remember I do thr
 
 I no longer know the young guy who started a job at Google in 2016, and felt like he was the absolute shit for making it to the big leagues so early in his career.
 
-The teenager who fell in love with his first girlfriend, and was so unprepared for the emotional rollercoaster of love and rejection, is now someone I can smile at as I recall how he felt. But it took years between being the person that had those experiences, to becoming a person that could look at them as an outside observer.
+The teenager who fell in love with his first girlfriend, and was so unprepared for the emotional rollercoaster of love and rejection, is now someone I can smile at as I recall how he felt. But it took years from being the person that had those experiences, to becoming a person that could look at them as an outside observer.
 
 And what about the 10 year old kid who had his whole world uprooted, when his mother got a job in the city and so they moved from the country to the suburbs? As I recall, he was absolutely shattered about losing the life he knew. He loved his small town, but would he still have loved it a decade later if it had become a barrier to his career prospects in the future? We will never know, because that me never got to exist.
 

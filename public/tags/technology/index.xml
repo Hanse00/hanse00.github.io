@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Philip Mallegol-Hansen</title>
+    <link>/tags/technology/</link>
+    <description>Philip Mallegol-Hansen (Technology)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Wed, 29 May 2024 18:57:00 -0700</lastBuildDate>
+    
+    <atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Does AI Work?</title>
+      <link>/blog/how-does-ai-work/</link>
+      <pubDate>Wed, 29 May 2024 18:57:00 -0700</pubDate>
+      
+      <guid>/blog/how-does-ai-work/</guid>
+      <description>&lt;p&gt;The topic of computer AI (Artificial Inteligence) has taken a foothold in the mainstream since &lt;a href=&#34;https://en.wikipedia.org/wiki/OpenAI&#34;&gt;OpenAI&lt;/a&gt; brought their &lt;a href=&#34;https://en.wikipedia.org/wiki/ChatGPT&#34;&gt;ChatGPT&lt;/a&gt; service to the masses in late 2022.&lt;/p&gt;
+&lt;p&gt;For all the media attention that this topic is now getting, a lot of the conversation I hear betrays a total lack of fundamental understanding of the topic. I am by no means an expert, it&amp;rsquo;s not the particular speciality that my own software engineering experience focuses on, but I understand enough of the basics to participate intelligently in the topic.&lt;/p&gt;
+&lt;p&gt;If you wish to achieve a similar &amp;ldquo;just enough&amp;rdquo; mastery of the topic, I can wholeheartedly recommend this series by YouTube channel &lt;a href=&#34;https://www.youtube.com/@3blue1brown&#34;&gt;3Blue1Brown&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+    &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/?listType=playlist&amp;list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&amp;autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The channel in general is excellent, and I recommend viewing his other videos as well.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m Not Worried for My Career</title>
+      <link>/blog/im-not-worried-for-my-career/</link>
+      <pubDate>Tue, 14 May 2024 10:22:00 -0700</pubDate>
+      
+      <guid>/blog/im-not-worried-for-my-career/</guid>
+      <description>&lt;p&gt;In a recent conversation, someone asked me why people should bother learning to code anymore, when GenAI&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; / LLMs&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; can just generate code for you these days.&lt;/p&gt;
+&lt;p&gt;As the output of that conversation, this is a list of reasons why I am not worried for my career.&lt;/p&gt;
+&lt;h1 id=&#34;its-not-about-writing-code&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#its-not-about-writing-code&#34;&gt;
+        ##
+    &lt;/a&gt;
+    It&amp;rsquo;s Not About Writing Code
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;It might sound conterintuitive to someone who doesn&amp;rsquo;t work in this field, but being a software developer is largely not about &lt;em&gt;developing&lt;/em&gt; software.&lt;/p&gt;
+&lt;p&gt;In other engineering diciplines, there seems to be a number of well understood and clearly distinct roles. Construction demands the input of architects, engineers, contractors, suveyors, crane operators, and a myriad of other participants.&lt;/p&gt;
+&lt;p&gt;Software is not as clear cut. I have not yet in my years on the job come across an individual whose job is strictly to write code based on plans laid by other people.&lt;/p&gt;
+&lt;p&gt;We find ourselves taking on many different roles, from sitting down with the client and trying to build an understanding of what they want the software to do, to building prototypes, to putting on the architecture hat and thinking through not just &lt;em&gt;what&lt;/em&gt; to build, but &lt;em&gt;how&lt;/em&gt; to build it so that it meets the needs set forth by our client.&lt;/p&gt;
+&lt;p&gt;Even &lt;strong&gt;if&lt;/strong&gt; we conceeded that we don&amp;rsquo;t need to type out the code anymore, the rest of the activities leave us with plenty to do.&lt;/p&gt;
+&lt;h1 id=&#34;someone-needs-to-check-the-work&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#someone-needs-to-check-the-work&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Someone Needs To Check the Work
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;Let&amp;rsquo;s say you decide to utilize a LLM to generate some code on your behalf, rather than typing it by hand.&lt;/p&gt;
+&lt;p&gt;How confident are you that the code generated is correct?&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re an experienced software engineer, you could look at the output, and if it&amp;rsquo;s fairly simple, you could confirm its correctness at a glance. If it&amp;rsquo;s more complicated, you have tools in your toolbox for that scenario too: You could write &lt;a href=&#34;https://martinfowler.com/bliki/UnitTest.html&#34;&gt;Unit Tests&lt;/a&gt; to confirm correctness for you.&lt;/p&gt;
+&lt;p&gt;In either case, your ability to confirm of the code does what you think it should, depends on yourself already having a mental model of how software works.&lt;/p&gt;
+&lt;p&gt;Perhaps you disagree: Why does anyone need to check the work? The software working is self-evident! If I click run, and it runs, then it works.&lt;/p&gt;
+&lt;p&gt;To that I would say: You underestimate the subtle and disasterous ways in which systems can fail, that aren&amp;rsquo;t obvious. What would happen, if someone had &lt;a href=&#34;https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/&#34;&gt;NULL as their license plate&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;Replace &amp;ldquo;LLM&amp;rdquo; with &amp;ldquo;Stack Overflow&amp;rdquo;, and you&amp;rsquo;ll find that this isn&amp;rsquo;t a new problem in our industry. There have always been those who tried to get away with not really knowing what they were doing.&lt;/p&gt;
+&lt;h1 id=&#34;whos-code-is-it&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#whos-code-is-it&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Who&amp;rsquo;s Code Is It?
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m definitely not a lawyer, so forgive me for any inacuracies here.&lt;/p&gt;
+&lt;p&gt;In general, in the U.S., when someone pays you to write something for them, the something you&amp;rsquo;ve written is now their property.&lt;/p&gt;
+&lt;p&gt;Seems simple enough. A client hires me to write an application for them, I do, I get paid, they have an app. Whatever they do from there is up to them.&lt;/p&gt;
+&lt;p&gt;They can hire me to come make modifications in the future, they can hire someone else, they can toss it asside and decide to do something else entirely.&lt;/p&gt;
+&lt;p&gt;But what if the code I &lt;em&gt;wrote&lt;/em&gt; for them was never &lt;em&gt;mine&lt;/em&gt; in the first place?&lt;/p&gt;
+&lt;p&gt;Legal battles are unfolding to answer questions exactly like this, &lt;a href=&#34;https://githubcopilotlitigation.com/&#34;&gt;developers are suing GitHub&lt;/a&gt;, and &lt;a href=&#34;https://www.reuters.com/legal/transactional/ny-times-sues-openai-microsoft-infringing-copyrighted-work-2023-12-27/&#34;&gt;newspapers are suing OpenAI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;What exactly the answers to these legal questions will be, I don&amp;rsquo;t know. But if I was hiring people to do work for me, I&amp;rsquo;d err on the side of wanting to be confident the work actually belongs to me.&lt;/p&gt;
+&lt;h1 id=&#34;the-computer-knows-how---not-why&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#the-computer-knows-how---not-why&#34;&gt;
+        ##
+    &lt;/a&gt;
+    The Computer Knows How - Not Why
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;Drawing another analogy to the physical world: there are &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_bridge_types&#34;&gt;many ways to build a bridge&lt;/a&gt;. Each bridge type undoubtedly has a laundry list of pros and cons, costs, time to build, difficulty to service, ability to withstand natural disassters, and more. I&amp;rsquo;m not a civil engineer, and I have no idea how these different bridge types stack up against each other. But I mention all of this, because the same characteristics are true about software.&lt;/p&gt;
+&lt;p&gt;There are many ways to build working software, from monoliths to microservices, dynamic vs. statically linked dependencies, object oriented vs. functional. As with bridges, there are many choices to make along the way when designing software, and there is no one &lt;em&gt;correct&lt;/em&gt; answer. It takes understanding the context in which you are building, to make the best possible choice.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Are we trying to get someone out the door as fast as possible, to demo to potential investors, so that we can get money to build the &lt;em&gt;real thing&lt;/em&gt; later?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Are we building in a life-or-death scenario, where the guaranteed correctness of our software outweighs financial concerns?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do we anticipate that our code will be in use for months, years, or decades? The longer it is, the more likely we will need to deal with transitioning to new hardware, new maintanence staff, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These and more, are the kinds of considerations that set you up to design software fit for its purpose. As it stands, there&amp;rsquo;s no indication LLMs will be capable of taking on this mental labor.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Generative Artificial Intelligence.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Large Language Models.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo Dev Container</title>
+      <link>/blog/hugo-dev-container/</link>
+      <pubDate>Tue, 07 May 2024 09:33:00 -0700</pubDate>
+      
+      <guid>/blog/hugo-dev-container/</guid>
+      <description>&lt;p&gt;As &lt;a href=&#34;https://philip.mallegolhansen.com/blog/embarrassment-is-a-sign-of-growth/&#34;&gt;recently mentioned&lt;/a&gt; I&amp;rsquo;m now using &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; as the technology upon which this blog is built. There are many things I like about Hugo, but one factor had been a bit annoying: To preview what my changes will end up looking like, I need access to a machine that has Hugo installed.&lt;/p&gt;
+&lt;p&gt;This is all fine and dandy when I&amp;rsquo;m at my desk at home, where I do most of my writing. But I wanted the option to take this operation on the go, in case I&amp;rsquo;m somewhere with my iPad and feel an itch to write something down.&lt;/p&gt;
+&lt;p&gt;Enter: &lt;a href=&#34;https://github.com/features/codespaces&#34;&gt;GitHub Codespaces&lt;/a&gt;. Codespaces are a relatively new feature in GitHub, that allow you to easily open up a clone of a GitHub repo inside a &lt;a href=&#34;https://containers.dev/&#34;&gt;Dev Container&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With a little bit of futzing around, I was able to add the following file to the repo that contains this site:&lt;/p&gt;
+&lt;script src=&#34;https://gist.github.com/hanse00/84b236364612ee69be723dd6f9b67e6b.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;And just like that, I can launch a Codespace directly from the GitHub UI, and author posts in my web browser, run the hugo commands to preview the posts, and then commit them so they get deployed to the live site.&lt;/p&gt;
+&lt;p&gt;There are a few rough edges, where clicking on links in the preview tries to load a URL relative to localhost, which won&amp;rsquo;t work since my site isn&amp;rsquo;t actually running &lt;em&gt;locally&lt;/em&gt; to me. Perhaps that&amp;rsquo;s just an error in the theme I&amp;rsquo;m using, I&amp;rsquo;m unsure for now.&lt;/p&gt;
+&lt;p&gt;All in all, it&amp;rsquo;s still great compared to not having the option to author away from my desk at all. And embarassingly for Squarespace, this works &lt;em&gt;much&lt;/em&gt; better than their mobile UI.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Panel Custom Auth</title>
+      <link>/blog/panel-custom-auth/</link>
+      <pubDate>Mon, 06 May 2024 15:44:14 -0700</pubDate>
+      
+      <guid>/blog/panel-custom-auth/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently been using the &lt;a href=&#34;https://panel.holoviz.org&#34;&gt;Panel&lt;/a&gt; framework on a Python project.&lt;/p&gt;
+&lt;p&gt;Deep in the bowels of the documentation, it is &lt;a href=&#34;https://panel.holoviz.org/how_to/authentication/providers.html#plugins&#34;&gt;mentioned&lt;/a&gt; that a custom auth plugin can be provided if a project needs to use a different authentication mechanism than those bundled with the framework, which is exactly what I needed.&lt;/p&gt;
+&lt;p&gt;However between the vague docs, and the seeming lack of others actually having gone through with this option, it took me a while to figure out.&lt;/p&gt;
+&lt;p&gt;And so, as any good &lt;a href=&#34;https://en.wikipedia.org/wiki/Netizen&#34;&gt;netizen&lt;/a&gt; I&amp;rsquo;m here to show you how I did it.&lt;/p&gt;
+&lt;h2 id=&#34;solution&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#solution&#34;&gt;
+        #
+    &lt;/a&gt;
+    Solution
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;re just looking for some code you can reference, here it is.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like to learn more about how I got there, please read on.&lt;/p&gt;
+&lt;script src=&#34;https://gist.github.com/hanse00/9091a1deac10d3162b0e33e74cc3c1fe.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Note: I had to transcribe the code by hand, so be aware of potential typos.&lt;/p&gt;
+&lt;h2 id=&#34;commentary&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#commentary&#34;&gt;
+        #
+    &lt;/a&gt;
+    Commentary
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;As is often the case, I found it helpful to start with carefully reviewing the closest thing I could find to an existing solution.&lt;/p&gt;
+&lt;p&gt;The Panel framework ships with a set of OAuth providers, and a &amp;ldquo;Basic Auth&amp;rdquo; provider. Given that the backend I needed to authenticate against is also a plain old username/password situation, the basic auth provider was my starting point.&lt;/p&gt;
+&lt;p&gt;What didn&amp;rsquo;t work for me, was that the basic auth provider allows you to configure only one set of credentials, a specific username and password combination that anything entered will be checked against.&lt;/p&gt;
+&lt;p&gt;So I went digging to figure out how exactly it was implemented.&lt;/p&gt;
+&lt;p&gt;What I found was a set &lt;a href=&#34;https://github.com/holoviz/panel/blob/e6f658f6663b55ee9c5ecbdafd0e8235547bc5a1/panel/auth.py#L798&#34;&gt;LoginHandler&lt;/a&gt; and &lt;a href=&#34;https://github.com/holoviz/panel/blob/e6f658f6663b55ee9c5ecbdafd0e8235547bc5a1/panel/auth.py#L878&#34;&gt;AuthProvider&lt;/a&gt; objects that &lt;em&gt;nearly&lt;/em&gt; did what I needed. Unfortunately the aspects I needed to change weren&amp;rsquo;t trivially configurable in the existing objects, so I opted to wholesale copy and modify them.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The outstanding task then was getting my panel application to actually load my auth provider. The &lt;code&gt;panel.serve&lt;/code&gt; function takes opaque set of key value arguments&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; that get passed down a rather lengthy call chain. Figuring out which of the auth related parameters would actually allow me to pass a specific object, rather than something like the name of a built-in auth provider, took a bit of spelunking with my debugger, but we got there in the end.&lt;/p&gt;
+&lt;p&gt;In the end I think the moral of that whole story is: Debuggers are invaluable. I understand it might be intimidating to figure out how to wrangle a proper debugger, especially when it seems like print statements can get you 90% of the way. But I truly believe it&amp;rsquo;s a worthwhile endeavor to sit down and put a bit of effort into.&lt;/p&gt;
+&lt;p&gt;Especially when it comes to figuring out a long call chain between third party dependencies, there&amp;rsquo;s really nothing like it.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;If anyone is looking for a side quest, I think it would be a great idea for the framework itself to contain versions of these objects where the authentication mechanism itself was the only thing that got plugged in, for maximum code reuse.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;I understand it&amp;rsquo;s a common pattern, but I don&amp;rsquo;t love it.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>tmux Cheatsheet</title>
+      <link>/blog/tmux-cheatsheet/</link>
+      <pubDate>Thu, 22 Feb 2024 11:01:25 -0800</pubDate>
+      
+      <guid>/blog/tmux-cheatsheet/</guid>
+      <description>&lt;p&gt;One of the best parts of my career has always been the amazing people I’ve been privileged enough to work with, and whose presence has caused me to grow and evolve into a (hopefully) better version of myself.&lt;/p&gt;
+&lt;p&gt;Among those special people is Mr. Alonso, who joined the team I was a part of in 2017, and immediately lifted the bar with his very presence. I consider myself fortunate to have known him, and his work.&lt;/p&gt;
+&lt;p&gt;He created a one-page PDF file with handy &lt;a href=&#34;https://en.wikipedia.org/wiki/Tmux&#34;&gt;tmux&lt;/a&gt; invocations that I found particularly helpful, and posted it on his website for the world to see. Recently I tried to reference that sheet again, but found that his site was no more. I find that fact sad, as I believe in the web and everything it could be, but I do not judge his decision on a personal level.&lt;/p&gt;
+&lt;p&gt;I reached out and as the gentleman he is, he graciously pulled the file from his archives, and allowed me to share it here with the rest of the world. So if you’re the kind of person who, like me, want a cheatsheet for tmux, here it is:&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;my_tmux_cheatsheet.pdf&#34;&gt;&lt;img src=&#34;https://philip.mallegolhansen.com/blog/tmux-cheatsheet/my_tmux_cheatsheet.pdf&#34;
+    alt=&#34;A link to the tmux cheatsheet pdf.&#34;&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Apple Vision Pro</title>
+      <link>/blog/apple-vision-pro/</link>
+      <pubDate>Sun, 11 Feb 2024 17:34:35 -0800</pubDate>
+      
+      <guid>/blog/apple-vision-pro/</guid>
+      <description>&lt;p&gt;Earlier today I had an appointment at the Apple Store to demo the company’s newest product, the Apple Vision Pro.&lt;/p&gt;
+&lt;p&gt;If you’re not up to speed, the Apple Vision Pro is an AR&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; headset that you wear, it has cameras and other sensors on the front, and small screens and lenses on the inside that you look at. The result is a convincing facsimile of the whole device being “see through”, with the notable exception that the software then allows you to interact with applications, which to you appear like they’re floating in the room.&lt;/p&gt;
+&lt;p&gt;Apple has a few videos on their site you can view to get a sense for what the device can do at &lt;a href=&#34;https://www.apple.com/apple-vision-pro/guided-tour/&#34;&gt;https://www.apple.com/apple-vision-pro/guided-tour/&lt;/a&gt;, that being said video truly does not do the experience justice. I would highly recommend anyone who’s the least bit curious to give this a go, worst case scenario you spend 30 minutes doing something different with your day.&lt;/p&gt;
+&lt;p&gt;For me the experience felt truly magical, in ways that technology hasn’t done for me in a while. The illusion was totally able to trick my brain into feeling like the apps were just floating there in space. The eye tracking (which is used like a cursor on a computer) is really good. It felt effortless to look at the button I wanted to tap. I walked away from the whole thing breath taken, and &lt;em&gt;really&lt;/em&gt; tempted to buy one on the spot.&lt;/p&gt;
+&lt;p&gt;Fortunately for my marriage sense prevailed, because the $3,500 price tag for the base model isn’t the kind of thing you buy and &lt;em&gt;then&lt;/em&gt; tell your wife about (at least not in my family), but I can absolutely see the appeal.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://philip.mallegolhansen.com/blog/apple-vision-pro/IMG_1163.jpeg&#34;
+    alt=&#34;A photo of me wearing the Apple Vision Pro, staring off into the distance.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;My first Vision Pro experience.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&#34;https://philip.mallegolhansen.com/blog/apple-vision-pro/IMG_1162.jpeg&#34;
+    alt=&#34;Second photo of myself wearing the Vision Pro, this time looking more directly towards the camera.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;I wore my &lt;a href=&#34;https://hypercritical.co&#34;&gt;Hypercritical&lt;/a&gt; shirt for the occasion.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As someone who wears glasses, I was nervous about what that situation would look like at the store. I had taken a questionnaire at the time of booking, but it didn’t ask any specifics about my prescription, so I wasn’t sure what to expect on that front.&lt;/p&gt;
+&lt;p&gt;It turns out that when you come in, they take your glasses and scan them on a machine. A little while later an employee comes out with the headset, already fitted with the correct lenses for you. But… how do they make sure they have your lenses? After all prescriptions come in many kinds. I was told that for this purpose, the individual Apple Store has over 860 different pairs of lenses sitting in the back room, to fit almost anyone right then and there in time for the demo. Mind blown.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Augmented Reality.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Just an HTML Document</title>
+      <link>/blog/just-an-html-document/</link>
+      <pubDate>Tue, 23 Jan 2024 18:03:08 -0800</pubDate>
+      
+      <guid>/blog/just-an-html-document/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://philip.mallegolhansen.com/blog/back-to-basics/&#34;&gt;I recently wrote&lt;/a&gt; a bit about wanting to return to tinkering with web technologies, without all of the noise that tends to get in the way in modern web development.&lt;/p&gt;
+&lt;p&gt;Given that many people aren’t familiar with web development at all, and of those who are, I suspect many of the more junior folks haven’t ever done things the “old” way, I wanted to take a moment today to describe what exactly it takes to make a web page in this manner.&lt;/p&gt;
+&lt;h2 id=&#34;html&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#html&#34;&gt;
+        #
+    &lt;/a&gt;
+    HTML
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;HTML stands for HyperText Markup Language, all the language really is, is a definition a few special “tags” that you can write inline with the rest of your text, those tags in turn have special meanings that the web browser understands and “marks up” appropriately.&lt;/p&gt;
+&lt;p&gt;For example, the tag &amp;lt;b&amp;gt; in HTML means bold, inversely &amp;lt;/b&amp;gt; means end-of-bold. So if you wrote something like: Hey there, &amp;lt;b&amp;gt;how&amp;lt;/b&amp;gt; are you? You would specify that the word “how” is in bold. The actual tags don’t get displayed in the text, the result would look like: Hey there, &lt;strong&gt;how&lt;/strong&gt; are you?&lt;/p&gt;
+&lt;p&gt;Of course HTML has a whole host of other tags that do all sorts of things, from inserting video to changing the color of your text, if you know the right tags, you can do just about anything. But if you’re just getting started, there isn’t all that much you have to wrap your head around to make &lt;em&gt;something&lt;/em&gt; appear.&lt;/p&gt;
+&lt;p&gt;A web page with a title and a few paragraphs of text would look something like this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;Philip&amp;#39;s Web Playground&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Like many technologists, a combination of advancement in my own career and the steady evolution of the web has driven me away from interacting with web technologies as their most basic levels.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Rather than hand crafting HTML documents, we invent increasingly more complicated contraptions with the supposed goal of easing the original task.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    These new tools and technologies have their time and place, I believe that. But I also believe that we significantly overuse them, apply them at times and in places where they do &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;em&lt;/span&gt;&amp;gt;not&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;em&lt;/span&gt;&amp;gt; belong.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    This site exists for the explicit purpose of allowing me the joy of getting back in touch with the web, getting my hands &amp;#34;dirty&amp;#34; with web technologies new and old, and exploring their application.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    There is no dogma, I am not decidedly against any particular technology, nor am I committed to using technologies simply because they are the norm.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    I hope you find some use in this page, whether it be as a concrete technical example, or simply as an object that sparks your own curiosity for the web.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Notable in the context of “modern” development practices: I wrote this myself, by hand. There’s no static site generator software, or other complexity involved in “generating” the HTML. I simply sat down at my editor, and wrote it.&lt;/p&gt;
+&lt;h3 id=&#34;technically-valid-vs-usable&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#technically-valid-vs-usable&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Technically Valid vs. Usable
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;p&gt;Those of you who have experience developing web pages probably realized immediately that my example above is &lt;em&gt;technically&lt;/em&gt; invalid. It’s true, the HTML specification sets out a bunch of rules about which tags may be used under which circumstances, and my example does not adhere to those rules.&lt;/p&gt;
+&lt;p&gt;However it’s worth understanding that over the past three decades, developers of web browsers have put in a lot of work to make sure that anything that even remotely resembles a valid HTML document will display correctly in their browser. The example I posted isn’t valid, but it &lt;em&gt;works&lt;/em&gt; in every browser I’ve tried.&lt;/p&gt;
+&lt;p&gt;If you’re someone who is trying to learn web development, I strongly recommend you start by worrying about making things work. Once you have achieved something you feel good about, reformatting it to be valid is an easier fight, than worrying about a bunch of details up front you likely won’t understand.&lt;/p&gt;
+&lt;h2 id=&#34;the-document&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#the-document&#34;&gt;
+        #
+    &lt;/a&gt;
+    The Document
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;Alright, we have a bit of HTML written up, now what? It goes in a document. Specifically the document should have the .html file extension, but besides that there’s no black magic. Any plain text editor, such as Notepad on Windows, or TextEdit on macOS will do.&lt;/p&gt;
+&lt;p&gt;A mistake some folks make here is, you definitely do &lt;strong&gt;not want&lt;/strong&gt; to use a Word Processor such as Microsoft Word. These applications have their own use in marking up text documents for print and display, but they embed their own additional data besides the actual text, such as font size, position on page, etc. which does not make for valid HTML. If you try to create a page in Word and then save that, you’ll have a bad time trying to make an HTML document out of it. A simple text editor is your friend.&lt;/p&gt;
+&lt;h2 id=&#34;hosting&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#hosting&#34;&gt;
+        #
+    &lt;/a&gt;
+    Hosting
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;Hosting is, in my opinion, the hardest part of web development to explain to people, and it’s also the source of much busywork.&lt;/p&gt;
+&lt;p&gt;In brief, the purpose of hosting your webpage is: There needs to exist some URL (address) on the web that people can go to, and when they go there, your HTML document is presented to them. For this to happen, two distinct parts need to come together, an address needs to exist that points to a web server, and the server needs to be configured to return your page whenever people connect to it.&lt;/p&gt;
+&lt;p&gt;In my case, I’ve elected to use Google Cloud Storage (GCS) as my web server, and configured a few things on the back end for that to work with the address &lt;a href=&#34;https://playground.mallegolhansen.com&#34;&gt;https://playground.mallegolhansen.com&lt;/a&gt;. We won’t today go into how I set up that, it can get a bit technically hairy. What’s important to know is this: The setup is a one-time activity, once everything is configured, it’s just like uploading a file to Google Drive, Dropbox, or some other internet connected storage service. Whatever HTML document I upload to the storage account, is what people get presented when they go to the address.&lt;/p&gt;
+&lt;h2 id=&#34;updates&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#updates&#34;&gt;
+        #
+    &lt;/a&gt;
+    Updates
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;So how do you update the page? You modify that document you have saved, adding, removing, or modifying the text and HTML Tags. Then you sign in to the web hosting solution and upload the new version of the file. And that’s it! There’s a constant loop of making changes to the document, and uploading the new version for people to see.&lt;/p&gt;
+&lt;p&gt;Compared to the prevailing modern practices including dozens of tools you run, need to keep updated, and integrate with each other, web development really can be easy if you don’t &lt;em&gt;need&lt;/em&gt; all the potential advantages the tools offer.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Back to Basics</title>
+      <link>/blog/back-to-basics/</link>
+      <pubDate>Sun, 21 Jan 2024 17:49:20 -0800</pubDate>
+      
+      <guid>/blog/back-to-basics/</guid>
+      <description>&lt;p&gt;My first foray into web development was in 2010, at the time I was a first year student at &lt;a href=&#34;https://www.rts.dk/htx-roskilde&#34;&gt;HTX Roskilde&lt;/a&gt;, taking the mandatory “Communications &amp;amp; IT” course taught by one of the school’s newer teachers, &lt;a href=&#34;https://bartek.dk/&#34;&gt;Bartek&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The technical depth of that class was intentionally rather shallow. The focus was heavily on the semantic meaning of the various HTML keywords and their use, and things like the &lt;a href=&#34;https://en.wikipedia.org/wiki/Principles_of_grouping&#34;&gt;Gestalt laws of grouping&lt;/a&gt;, rather than trying to do anything technically impressive.&lt;/p&gt;
+&lt;p&gt;JavaScript for example was entirely off limits with the exception of a few pioneering students that simply could not help themselves from integrating this “advanced” technology into their webpages. The result was most students managing to create technically valid HTML documents with a little bit of text about ourselves and what we were learning at the school, with a bit of styling to stand out among each other.&lt;/p&gt;
+&lt;p&gt;Though it may not sound like much, the fact that the MediaLab had a publicly accessible web server (Apache running on Ubuntu Server on top of a rack-mount IBM server from ~2000) for students to experiment with “real world” use of web technologies was huge. In the wider context of danish &lt;a href=&#34;https://en.wikipedia.org/wiki/Gymnasium_(Denmark)&#34;&gt;gymnasiums&lt;/a&gt; the practice was ahead of its peers, to the point of being considered unconventional. The teachers and students in the MediaLab got their fair share of trouble for breaking boundaries in this manner, but the end result was a student body capable of &lt;em&gt;really&lt;/em&gt; hosting pages on the web - An invaluable skill for the modern age.&lt;/p&gt;
+&lt;p&gt;Unfortunately since my graduation, the bureaucracy eventually got its way. Between the advent of &lt;a href=&#34;https://gdpr-info.eu/&#34;&gt;GDPR&lt;/a&gt; and similar rules and regulations that gave credence to the argument that student data could not be published online, and the retirement of Karl Bjarnason who was single-handedly responsible for the management of the hardware and software underpinning the system, the willpower to continue the “StudieWeb” project seems to have died. It’s a real shame as I wish I could point back to those first experiments and see how far we’ve come.&lt;/p&gt;
+&lt;h2 id=&#34;squarespace&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#squarespace&#34;&gt;
+        #
+    &lt;/a&gt;
+    Squarespace
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;I came away from my school years with two particularly relevant beliefs:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Having some kind of online presence is valuable no matter who you are - Particularly owning the domain name you point people to has immense value, as you can modify DNS records to point to whatever the technology stack of the future is, whilst ensuring people’s old memories, bookmarks, and search results continue to get them to you, in whatever form that is.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I’m a god awful designer - Or rather I am right in that gap where I have enough of an eye for design to tell when my work is good, and when it’s bad, but I’m not quite good enough to execute to the level I expect, a source of much frustration when mucking about with CSS and trying to make things look good.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Eventually I found a solution that could satisfy both of these beliefs at once: &lt;a href=&#34;https://www.squarespace.com/&#34;&gt;Squarespace&lt;/a&gt;. I think I first heard of Squarespace during an advertisement read on &lt;a href=&#34;https://www.hellointernet.fm/podcast/3&#34;&gt;Hello Internet #3&lt;/a&gt; and, to my recollection, I’ve been a customer ever since in various forms. The first version of my site was a single “Cover Page” (They used to have a special, cheaper, plan for these kinds of one page only sites), eventually that page ended up looking like this:&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://philip.mallegolhansen.com/blog/back-to-basics/screenshot.png&#34;
+    alt=&#34;A screenshot of the old cover page, with my name, job title, and social links on top of a photo of myself at a computer.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;The last revision of my “Cover Page” site before moving to a fully featured Squarespace site.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I should note here that I’m not being paid to mention Squarespace, nor do I get any kind of discount or anything else, I’m just mentioning it here as it’s been a step in my journey.&lt;/p&gt;
+&lt;h2 id=&#34;do-it-yourself&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#do-it-yourself&#34;&gt;
+        #
+    &lt;/a&gt;
+    Do It Yourself
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;Squarespace has served me well for as long as I’ve been a customer, but in the past few years something has been building within me, I imagine it’s the same feeling my father feels with cars, and my grandfather did with carpentry before him. No matter how good, buying a product just doesn’t scratch the same itch as building something yourself. So I’ve finally decided to build something for the web. To do this requires two things of me:&lt;/p&gt;
+&lt;p&gt;First, I have to accept that I am not a great designer - And that’s okay. I’m not competing for a design award, I’m not even trying to replace this website as my “home” (At least for now). I am simply building for the joy of doing so.&lt;/p&gt;
+&lt;p&gt;Second, I have to allow myself not to commit. I have a habit of wanting to do everything well, I set high standards for myself. But by doing so, it’s easy to kill the fun and make something feel like a chore.&lt;/p&gt;
+&lt;p&gt;Notice how those two are basically the same thing said in two different ways? Yeah, me too.&lt;/p&gt;
+&lt;p&gt;I’m incredibly excited to revisit my roots and write plain old HTML webpages for the first time in a decade. I sincerely invite you to join me on this journey. The web doesn’t have to be difficult, polished, serious, and limited to billion dollar companies. Writing a webpage really only takes minutes if you can simply allow yourself to get away with something less than what it could be.&lt;/p&gt;
+&lt;p&gt;I think there’s something truly freeing in just making the web what it always was: A bunch of HTML files that link to each other.&lt;/p&gt;
+&lt;p&gt;You can check out my little web experiment at: &lt;a href=&#34;https://playground.mallegolhansen.com&#34;&gt;https://playground.mallegolhansen.com&lt;/a&gt;, and keep reading this blog as I detail the things I add over time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Day 1 Gbps Wasn&#39;t Enough</title>
+      <link>/blog/the-day-1-gbps-wasnt-enough/</link>
+      <pubDate>Thu, 28 Sep 2023 17:28:41 -0700</pubDate>
+      
+      <guid>/blog/the-day-1-gbps-wasnt-enough/</guid>
+      <description>&lt;p&gt;I recently &lt;a href=&#34;https://philip.mallegolhansen.com/blog/publish-whatever-you-want/&#34;&gt;mentioned&lt;/a&gt; the manager who tried to teach me not to let perfect be the enemy of good. But framing the question as good vs. perfect can sometimes be an oversimplification. What was good yesterday, is today inadequate and in need of change, not to become more perfect, but simply to remain good in a new context. The decision about what constitutes “good enough” must be continually reevaluated.&lt;/p&gt;
+&lt;p&gt;One of many contexts in which this is true is computer networking. Standards, and hardware that implements them, which used to be good, perhaps even great, become relics of the past in mere decades. As our appetite for sharing data of increasingly large volumes, with increasing speed, seems to know no end, the technology that enables this transmission keeps evolving.&lt;/p&gt;
+&lt;p&gt;I started my journey into computer networking just over a decade ago, at that time the concept of 1 Gbps (One Gigabit per second, or one Gigabyte every 8 seconds) seemed so fast it was outlandish. Portal 2, then a new game clocking in at a 8 Gigabyte total size, would have taken 60 seconds to download at that speed. It is nearly twice as fast as the fastest Blue-ray read speed, making it significantly faster to get bits from some far away server, than the ones in your very own possession.&lt;/p&gt;
+&lt;p&gt;As with so many things that once seemed outlandish, the availability of gigabit-per-second residential internet is no longer a dream. but a reality. In the case of my own household, the day that reality came into effect was Tuesday, September 26th 2023. Roughly 13 years after I first learned about Gigabit Ethernet, it became obsolete to me. As I now start to mentally inventory each of the components of my network that is preventing me from enjoying more than &lt;em&gt;just&lt;/em&gt; 1 Gbps (I pay for 1.2), I’m reminded once again:&lt;/p&gt;
+&lt;p&gt;Maybe this is good enough, at least for today.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fossy 2023 Recordings</title>
+      <link>/blog/fossy-2023-recordings/</link>
+      <pubDate>Sun, 10 Sep 2023 17:22:29 -0700</pubDate>
+      
+      <guid>/blog/fossy-2023-recordings/</guid>
+      <description>&lt;p&gt;Earlier this summer I had the pleasure of attending the first ever &lt;a href=&#34;https://2023.fossy.us/&#34;&gt;FOSSY conference&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; in Portland, Oregon, U.S.&lt;/p&gt;
+&lt;p&gt;I had a pleasant time getting to know new faces in the FOSS community. As my first conference since moving to the US, it was great to get back out there and feel that sense of community that can sometimes be fleeting when working from home.&lt;/p&gt;
+&lt;p&gt;As is often the case at conferences, I was unable to attend all of the presentations that I had wished to, and so I was excited to view some of the recordings after the fact. Unfortunately the conference organizers didn’t do a great job making it clear where to find those recordings&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, so when a recent &lt;a href=&#34;https://fosstodon.org/@linux_mclinuxface/111026066106336886&#34;&gt;Fediverse post&lt;/a&gt; gave me the context I was missing, I felt compelled to share. I hope having it posted somewhere on the web will help others find the videos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edit September 23rd:&lt;/strong&gt;  It looks like the Software Freedom Conservancy got around the announcing the videos a few days after I posted this.
+Am I suggesting that they did so because of my blog post? Unlikely. Either way for an official source on how to find the videos, check out &lt;a href=&#34;https://social.sfconservancy.org/objects/38ae68d8-8a0d-466e-9223-4c78e55c329a&#34;&gt;https://social.sfconservancy.org/objects/38ae68d8-8a0d-466e-9223-4c78e55c329a&lt;/a&gt; and &lt;a href=&#34;https://sfconservancy.org/news/2023/sep/14/fossy-videos/&#34;&gt;https://sfconservancy.org/news/2023/sep/14/fossy-videos/&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Free and Open Source Software Yearly.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;I get it, once the event is over you’re drained, and strong PR isn’t the highest priority - I don’t fault anyone.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>RSS Is Still Great in 2023</title>
+      <link>/blog/rss-is-still-great-in-2023/</link>
+      <pubDate>Thu, 27 Apr 2023 16:50:51 -0700</pubDate>
+      
+      <guid>/blog/rss-is-still-great-in-2023/</guid>
+      <description>&lt;p&gt;For one reason or another, I never really got around to using RSS during its heyday. Perhaps I was too young to care, or perhaps the sites I followed didn’t implement RSS in any significant way. Whatever the reason, it just never came to play a significant role in my life.&lt;/p&gt;
+&lt;p&gt;What I do remember is the outcry on the internet (Largely Reddit and Twitter) when &lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Reader&#34;&gt;Google Reader&lt;/a&gt; was discontinued. The end of Reader was declared as the end of RSS, and as someone who was never particularly invested, I simply accepted it as truth and moved on.&lt;/p&gt;
+&lt;p&gt;However as I&amp;rsquo;m sitting here a full decade later, the topic of RSS was recently re-introduced to me via a listener submitted question on the excellent &lt;a href=&#34;https://atp.fm/&#34;&gt;ATP podcast&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It turns out that not only is RSS still a thing, but at this point it&amp;rsquo;s one of those boring mature technologies that don&amp;rsquo;t get a lot of press, and just work. The best kind of technology.&lt;/p&gt;
+&lt;p&gt;As the ecosystem of blogs have moved between the various hot technology stacks du jour, the support for RSS has slowly made its way into most of them. At this point even many sites which don&amp;rsquo;t particularly advertise RSS support (And perhaps the authors aren&amp;rsquo;t even aware?) appear to &lt;em&gt;just work&lt;/em&gt; in my RSS reader when I add them. From small personal blogs, to &lt;a href=&#34;https://support.substack.com/hc/en-us/articles/360038239391-Is-there-an-RSS-feed-for-my-publication&#34;&gt;Substack &amp;ldquo;publications&amp;rdquo;&lt;/a&gt;, support is more ubiquitous than I expected.&lt;/p&gt;
+&lt;p&gt;Speaking of my RSS reader, I took the advice provided in the aforementioned &lt;a href=&#34;https://atp.fm/517&#34;&gt;episode #517 of ATP&lt;/a&gt; and gave &lt;a href=&#34;http://netnewswire.com/&#34;&gt;NetNewsWire&lt;/a&gt; a shot. It&amp;rsquo;s a simple RSS reader for the Apple ecosystem, with an understandable interface, nice reading experience, and a $0 price tag&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re at all curious about taking control of your online reading experience, I highly recommend giving RSS a chance. You might just like it.&lt;/p&gt;
+&lt;p&gt;P.S. This blog, &lt;a href=&#34;https://support.squarespace.com/hc/en-us/articles/215761717-Using-RSS-feeds?platform=v6&amp;amp;websiteId=5e82762d2500a00516912e30&#34;&gt;as all Squarespace blogs&lt;/a&gt;, of course supports RSS as well. Give it a try!&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Seriously, &lt;a href=&#34;https://github.com/Ranchero-Software/NetNewsWire/blob/main/Technotes/HowToSupportNetNewsWire.markdown&#34;&gt;they won&amp;rsquo;t even take your money if you beg them to&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Factorio Container</title>
+      <link>/blog/factorio-container/</link>
+      <pubDate>Thu, 14 May 2020 16:33:42 -0700</pubDate>
+      
+      <guid>/blog/factorio-container/</guid>
+      <description>&lt;p&gt;A while ago I came to the realization that my Docker knowledge was rather lacking. I had heard of the tool on and off over the years, even completed the quick-start tutorials once or twice, but I had never made a container for a project of my own.&lt;/p&gt;
+&lt;p&gt;Coincidentally, a group of friends were trying to organize some online gaming around the same time. We had decided that we wanted to play the excellent strategy / simulation game, &lt;a href=&#34;https://factorio.com/&#34;&gt;Factorio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A Factorio server is a simple binary that runs on Linux, but it takes a bit of setup to get right. I decided that this was the perfect candidate for me to jump into my container adventure.&lt;/p&gt;
+&lt;p&gt;The fruits of my labor are available on both &lt;a href=&#34;https://github.com/Hanse00/Factorio-Container&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://hub.docker.com/repository/docker/hanse01/factorio-container&#34;&gt;Docker Hub&lt;/a&gt;, if that’s the kind of thing that interests you.&lt;/p&gt;
+&lt;p&gt;For the rest of the article, I’m going to go into some of the struggles I had and the lessons that I learned, which may help you in your travels.&lt;/p&gt;
+&lt;h2 id=&#34;why&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#why&#34;&gt;
+        #
+    &lt;/a&gt;
+    Why?
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;I think it’s worth addressing the why first. Why did I make my own container, when there are already &lt;a href=&#34;https://github.com/search?q=factorio%20docker&#34;&gt;125+ results for “factorio docker” on GitHub&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;There are two primary reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I wanted to learn to make my own Docker container. Regardless of if the result ends up being of value to anyone, including myself. It was a learning experience first and foremost. And I’m now comfortable saying “I know how to use Docker”, even if I’ll have to look up the details along the way.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The most popular Docker container for Factorio out there, made by the &lt;a href=&#34;https://github.com/factoriotools/factorio-docker&#34;&gt;factoriotools team&lt;/a&gt;, just didn’t quite work the way I wanted it to. To their defense, throughout my journey I learned that some of the reasons for that are out of their control. And in fact, my own container now has some of the same shortcomings. This just goes to show that I had things to learn about Docker.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#what&#34;&gt;
+        #
+    &lt;/a&gt;
+    What?
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;So what exactly does the container do? On the surface it’s pretty simple.&lt;/p&gt;
+&lt;p&gt;The Factorio developers have done an amazing job supporting Linux as a first class platform, both for playing the game (Which has a native Linux client) and for hosting the headless server. So all we need to do, is download the headless server binary and run it.&lt;/p&gt;
+&lt;p&gt;As always, there are a few kinks: Making sure our container has curl for downloading the game, creating a separate user for running the server (rather than running everything as root), and perhaps the most complicated part: file permissions.&lt;/p&gt;
+&lt;p&gt;The beauty of the system, is that I can point you to my &lt;a href=&#34;https://github.com/Hanse00/Factorio-Container/blob/master/Dockerfile&#34;&gt;Dockerfile&lt;/a&gt; for all the exact details of the process, thereby making it self-documenting as long as you are familiar with the regular Linux commands such as apt-get, mkdir, chown, chmod, etc.&lt;/p&gt;
+&lt;h2 id=&#34;pain-points&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#pain-points&#34;&gt;
+        #
+    &lt;/a&gt;
+    Pain Points
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;Overall the process of creating a Docker container was actually surprisingly smooth. Having managed bare metal Linux servers in my past, it felt like a natural evolution.
+That being said, nothing is perfect.&lt;/p&gt;
+&lt;p&gt;The one major pain point in this project, was POSIX file permissions.&lt;/p&gt;
+&lt;p&gt;For anyone who has worked with Linux in the past, this might not come as a huge surprise, but Docker complicates this a bit. It does so by abstracting away the volume, and thereby the permissions, from where they are being used.&lt;/p&gt;
+&lt;p&gt;For those not familiar, let’s take a step back:&lt;/p&gt;
+&lt;p&gt;Linux and similar operating systems have a shared way of handling file permissions. At a higher level, this breaks down into: Which user owns a file / directory, which group owns a file / directory, which permissions (of a set of: read, write, and execute) does the owning user have, which permissions do members in the owning group have, and which permissions do everyone else have.&lt;/p&gt;
+&lt;p&gt;The key part in this context is the user and group who own the file / directory.&lt;/p&gt;
+&lt;p&gt;No matter what happens to the container, we want the data to stick around. That’s why Docker separates the storage of files onto a “volume” which exists independently of the container that uses it. That also means that the user on our container, which will run the application, does not exist in the context where the volume does.&lt;/p&gt;
+&lt;h3 id=&#34;how-do-we-work-around-that&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#how-do-we-work-around-that&#34;&gt;
+        ##
+    &lt;/a&gt;
+    How do we work around that?
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;p&gt;There are multiple possible solutions, but none of them feel quite as nice as I’d like.&lt;br&gt;
+In the end, I decided to do exactly what the team over at factoriotools did (And so we come full circle).&lt;/p&gt;
+&lt;p&gt;To be able to configure the file permissions on the volume, we must know which UID the user on the container will have. Therefore, we set the file permissions to a specific numeric UID and configure the container user to always have that UID.&lt;br&gt;
+Usually it’s considered bad practice to pin a user to a specific UID, rather than letting the system pick one at creation time, but in this case, we do not seem to have a better choice.&lt;/p&gt;
+&lt;p&gt;If you know of a more elegant way to handle file permissions in Docker volumes, I’d love to hear it!&lt;/p&gt;
+&lt;h2 id=&#34;lessons-learned&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#lessons-learned&#34;&gt;
+        #
+    &lt;/a&gt;
+    Lessons Learned
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;Although seemingly contradictory, two lessons that are important to keep in mind when starting out a project, especially in a space that’s already occupied by other projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Others likely had a reason for making the choices they made.&lt;/li&gt;
+&lt;li&gt;Just because someone else did it that way, doesn’t mean it’s the right way for you to do it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Although in my case, I now realize why those before me picked the path that they did, however, it wasn’t obvious from the beginning that it was the right way to do it. And by not following them blindly, I learned a lot.&lt;/p&gt;
+&lt;h3 id=&#34;document-your-decisions&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#document-your-decisions&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Document your decisions
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;p&gt;Although code commenting is a highly debated topic, my 2 cents are: Don’t write down what your code is doing (The code is already doing that job), write down why.
+That way others will have a chance at understanding why your code does something, that doesn’t look right on the surface.&lt;/p&gt;
+&lt;h3 id=&#34;finish-your-projects&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#finish-your-projects&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Finish your projects
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;p&gt;Although perhaps a bit meta, it really made a change to my mood once the project had reached my defined finish line.&lt;/p&gt;
+&lt;p&gt;I have tons of other projects I have worked on over the years, but very few have reached a true completion point.
+I’m definitely going to strive to finish more projects in the future, for some definition of finish, and I recommend you do the same.
+Keep in mind, finish doesn’t have to mean that you bring it to market and sell to 10 million users. Finish is whatever line you draw in the sand.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Triple Booting macOS, Ubuntu, and Windows</title>
+      <link>/blog/triple-booting-macos-ubuntu-and-windows/</link>
+      <pubDate>Fri, 20 Mar 2020 16:15:32 -0700</pubDate>
+      
+      <guid>/blog/triple-booting-macos-ubuntu-and-windows/</guid>
+      <description>&lt;p&gt;Back in 2015, whilst I was still a student, I had a part time job at the educational institution I attended. As is too often the case, we had severe budgetary constraints, a lack of goodwill from upper management, and conflicting desires between the professors.&lt;/p&gt;
+&lt;p&gt;Determined not to be defeated, my manager and I came up with a plan so audacious, that it might just work: We’d install macOS, Ubuntu, and Windows, all on the same physical Apple Mac mini devices. Effectively getting three computers for the cost of one, allowing every professor to have their system of choice, yet coming in at a price just low enough that we could sway the principal to give us the budget.&lt;/p&gt;
+&lt;p&gt;Whether that plan was the right choice, is a topic for another day. It seemed to be the best course of action for us to take at the time. And so we embarked on the journey.&lt;/p&gt;
+&lt;p&gt;If memory serves me right, I put down a grand total of ~300 hours on my worksheet during the course of the project. Most of which was spent researching on- and offline, getting intimately familiar with Apple’s EFI implementation (For better or worse), wiping the poor hard drive over and over again, each time learning something new that wouldn’t work. I lost count of how many times I concluded the task was impossible.&lt;/p&gt;
+&lt;p&gt;If not for &lt;a href=&#34;http://davidlively.com/notes/macbook-pro-triple-boot/&#34;&gt;a blog post by David Lively&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, I’m confident my manager would have accepted my defeat.&lt;/p&gt;
+&lt;p&gt;By some combination of skill, luck, and trying for the umpteenth time, we did eventually get the desired result.
+Looking back at it today, I’m not sure if I’m proud, or ashamed of the frankenmachine we created, but we did it. And for a few years after I left that place, it kept doing what it needed to do.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://philip.mallegolhansen.com/blog/triple-booting-macos-ubuntu-and-windows/IMG_20151005_182700.jpg&#34;
+    alt=&#34;A picture of the rEFInd boot screen, displaying the three OS logos to select which you wish to boot.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;The end result: a boot screen where you can select which of the available OS&amp;rsquo;es you wish to load.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Due to the mountain of unknowns I met when trying to solve the problem, I had decided early on that it had to be documented. If we ever did get it working, I wanted to be sure I knew how.&lt;/p&gt;
+&lt;p&gt;Recently I found that old PDF file, and was determined to share it forward. Just as David guided me on my way, I hope this can help anyone who wants to go down the same path. Keep in mind that much has changed since 2015, for one Apple introduced &lt;a href=&#34;https://support.apple.com/en-us/HT208862&#34;&gt;the T2&lt;/a&gt; which might just make this impossible&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;I also want to apologize for the numerous spelling and grammatical mistakes in the document, but as I have no access to any original material, it will have to do.&lt;/p&gt;
+&lt;p&gt;Do be warned, here be dragons.&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;Triplebooting-Macintosh-with-OS-X-Windows-and-Ubuntu.pdf&#34;&gt;&lt;img src=&#34;https://philip.mallegolhansen.com/blog/triple-booting-macos-ubuntu-and-windows/Triplebooting-Macintosh-with-OS-X-Windows-and-Ubuntu.pdf&#34;&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;I don’t know who this person is, but I owe them a debt of gratitude. This blog was the only semblance of help I found in my online research.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;At least without disabling various security features.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

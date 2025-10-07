@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FOSSY on Philip Mallegol-Hansen</title>
+    <link>/tags/fossy/</link>
+    <description>Philip Mallegol-Hansen (FOSSY)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Sun, 10 Sep 2023 17:22:29 -0700</lastBuildDate>
+    
+    <atom:link href="/tags/fossy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fossy 2023 Recordings</title>
+      <link>/blog/fossy-2023-recordings/</link>
+      <pubDate>Sun, 10 Sep 2023 17:22:29 -0700</pubDate>
+      
+      <guid>/blog/fossy-2023-recordings/</guid>
+      <description>&lt;p&gt;Earlier this summer I had the pleasure of attending the first ever &lt;a href=&#34;https://2023.fossy.us/&#34;&gt;FOSSY conference&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; in Portland, Oregon, U.S.&lt;/p&gt;
+&lt;p&gt;I had a pleasant time getting to know new faces in the FOSS community. As my first conference since moving to the US, it was great to get back out there and feel that sense of community that can sometimes be fleeting when working from home.&lt;/p&gt;
+&lt;p&gt;As is often the case at conferences, I was unable to attend all of the presentations that I had wished to, and so I was excited to view some of the recordings after the fact. Unfortunately the conference organizers didn’t do a great job making it clear where to find those recordings&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, so when a recent &lt;a href=&#34;https://fosstodon.org/@linux_mclinuxface/111026066106336886&#34;&gt;Fediverse post&lt;/a&gt; gave me the context I was missing, I felt compelled to share. I hope having it posted somewhere on the web will help others find the videos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edit September 23rd:&lt;/strong&gt;  It looks like the Software Freedom Conservancy got around the announcing the videos a few days after I posted this.
+Am I suggesting that they did so because of my blog post? Unlikely. Either way for an official source on how to find the videos, check out &lt;a href=&#34;https://social.sfconservancy.org/objects/38ae68d8-8a0d-466e-9223-4c78e55c329a&#34;&gt;https://social.sfconservancy.org/objects/38ae68d8-8a0d-466e-9223-4c78e55c329a&lt;/a&gt; and &lt;a href=&#34;https://sfconservancy.org/news/2023/sep/14/fossy-videos/&#34;&gt;https://sfconservancy.org/news/2023/sep/14/fossy-videos/&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Free and Open Source Software Yearly.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;I get it, once the event is over you’re drained, and strong PR isn’t the highest priority - I don’t fault anyone.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

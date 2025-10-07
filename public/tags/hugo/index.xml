@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Philip Mallegol-Hansen</title>
+    <link>/tags/hugo/</link>
+    <description>Philip Mallegol-Hansen (Hugo)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Tue, 07 May 2024 09:33:00 -0700</lastBuildDate>
+    
+    <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Dev Container</title>
+      <link>/blog/hugo-dev-container/</link>
+      <pubDate>Tue, 07 May 2024 09:33:00 -0700</pubDate>
+      
+      <guid>/blog/hugo-dev-container/</guid>
+      <description>&lt;p&gt;As &lt;a href=&#34;https://philip.mallegolhansen.com/blog/embarrassment-is-a-sign-of-growth/&#34;&gt;recently mentioned&lt;/a&gt; I&amp;rsquo;m now using &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; as the technology upon which this blog is built. There are many things I like about Hugo, but one factor had been a bit annoying: To preview what my changes will end up looking like, I need access to a machine that has Hugo installed.&lt;/p&gt;
+&lt;p&gt;This is all fine and dandy when I&amp;rsquo;m at my desk at home, where I do most of my writing. But I wanted the option to take this operation on the go, in case I&amp;rsquo;m somewhere with my iPad and feel an itch to write something down.&lt;/p&gt;
+&lt;p&gt;Enter: &lt;a href=&#34;https://github.com/features/codespaces&#34;&gt;GitHub Codespaces&lt;/a&gt;. Codespaces are a relatively new feature in GitHub, that allow you to easily open up a clone of a GitHub repo inside a &lt;a href=&#34;https://containers.dev/&#34;&gt;Dev Container&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With a little bit of futzing around, I was able to add the following file to the repo that contains this site:&lt;/p&gt;
+&lt;script src=&#34;https://gist.github.com/hanse00/84b236364612ee69be723dd6f9b67e6b.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;And just like that, I can launch a Codespace directly from the GitHub UI, and author posts in my web browser, run the hugo commands to preview the posts, and then commit them so they get deployed to the live site.&lt;/p&gt;
+&lt;p&gt;There are a few rough edges, where clicking on links in the preview tries to load a URL relative to localhost, which won&amp;rsquo;t work since my site isn&amp;rsquo;t actually running &lt;em&gt;locally&lt;/em&gt; to me. Perhaps that&amp;rsquo;s just an error in the theme I&amp;rsquo;m using, I&amp;rsquo;m unsure for now.&lt;/p&gt;
+&lt;p&gt;All in all, it&amp;rsquo;s still great compared to not having the option to author away from my desk at all. And embarassingly for Squarespace, this works &lt;em&gt;much&lt;/em&gt; better than their mobile UI.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -18,19 +18,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Set timezone
-        run: sudo timedatectl set-timezone America/Los_Angeles
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: 0.145.0
-          extended: true
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: true
-      - name: Build
-        run: hugo
       - name: Configure
         uses: actions/configure-pages@v5
       - name: Upload

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Philip Mallegol-Hansen</title>
+    <link>/tags/windows/</link>
+    <description>Philip Mallegol-Hansen (Windows)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Fri, 20 Mar 2020 16:15:32 -0700</lastBuildDate>
+    
+    <atom:link href="/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Triple Booting macOS, Ubuntu, and Windows</title>
+      <link>/blog/triple-booting-macos-ubuntu-and-windows/</link>
+      <pubDate>Fri, 20 Mar 2020 16:15:32 -0700</pubDate>
+      
+      <guid>/blog/triple-booting-macos-ubuntu-and-windows/</guid>
+      <description>&lt;p&gt;Back in 2015, whilst I was still a student, I had a part time job at the educational institution I attended. As is too often the case, we had severe budgetary constraints, a lack of goodwill from upper management, and conflicting desires between the professors.&lt;/p&gt;
+&lt;p&gt;Determined not to be defeated, my manager and I came up with a plan so audacious, that it might just work: We’d install macOS, Ubuntu, and Windows, all on the same physical Apple Mac mini devices. Effectively getting three computers for the cost of one, allowing every professor to have their system of choice, yet coming in at a price just low enough that we could sway the principal to give us the budget.&lt;/p&gt;
+&lt;p&gt;Whether that plan was the right choice, is a topic for another day. It seemed to be the best course of action for us to take at the time. And so we embarked on the journey.&lt;/p&gt;
+&lt;p&gt;If memory serves me right, I put down a grand total of ~300 hours on my worksheet during the course of the project. Most of which was spent researching on- and offline, getting intimately familiar with Apple’s EFI implementation (For better or worse), wiping the poor hard drive over and over again, each time learning something new that wouldn’t work. I lost count of how many times I concluded the task was impossible.&lt;/p&gt;
+&lt;p&gt;If not for &lt;a href=&#34;http://davidlively.com/notes/macbook-pro-triple-boot/&#34;&gt;a blog post by David Lively&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, I’m confident my manager would have accepted my defeat.&lt;/p&gt;
+&lt;p&gt;By some combination of skill, luck, and trying for the umpteenth time, we did eventually get the desired result.
+Looking back at it today, I’m not sure if I’m proud, or ashamed of the frankenmachine we created, but we did it. And for a few years after I left that place, it kept doing what it needed to do.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://philip.mallegolhansen.com/blog/triple-booting-macos-ubuntu-and-windows/IMG_20151005_182700.jpg&#34;
+    alt=&#34;A picture of the rEFInd boot screen, displaying the three OS logos to select which you wish to boot.&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;The end result: a boot screen where you can select which of the available OS&amp;rsquo;es you wish to load.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Due to the mountain of unknowns I met when trying to solve the problem, I had decided early on that it had to be documented. If we ever did get it working, I wanted to be sure I knew how.&lt;/p&gt;
+&lt;p&gt;Recently I found that old PDF file, and was determined to share it forward. Just as David guided me on my way, I hope this can help anyone who wants to go down the same path. Keep in mind that much has changed since 2015, for one Apple introduced &lt;a href=&#34;https://support.apple.com/en-us/HT208862&#34;&gt;the T2&lt;/a&gt; which might just make this impossible&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;I also want to apologize for the numerous spelling and grammatical mistakes in the document, but as I have no access to any original material, it will have to do.&lt;/p&gt;
+&lt;p&gt;Do be warned, here be dragons.&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;Triplebooting-Macintosh-with-OS-X-Windows-and-Ubuntu.pdf&#34;&gt;&lt;img src=&#34;https://philip.mallegolhansen.com/blog/triple-booting-macos-ubuntu-and-windows/Triplebooting-Macintosh-with-OS-X-Windows-and-Ubuntu.pdf&#34;&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;I don’t know who this person is, but I owe them a debt of gratitude. This blog was the only semblance of help I found in my online research.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;At least without disabling various security features.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

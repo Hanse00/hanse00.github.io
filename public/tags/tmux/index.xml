@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tmux on Philip Mallegol-Hansen</title>
+    <link>/tags/tmux/</link>
+    <description>Philip Mallegol-Hansen (Tmux)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Thu, 22 Feb 2024 11:01:25 -0800</lastBuildDate>
+    
+    <atom:link href="/tags/tmux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tmux Cheatsheet</title>
+      <link>/blog/tmux-cheatsheet/</link>
+      <pubDate>Thu, 22 Feb 2024 11:01:25 -0800</pubDate>
+      
+      <guid>/blog/tmux-cheatsheet/</guid>
+      <description>&lt;p&gt;One of the best parts of my career has always been the amazing people I’ve been privileged enough to work with, and whose presence has caused me to grow and evolve into a (hopefully) better version of myself.&lt;/p&gt;
+&lt;p&gt;Among those special people is Mr. Alonso, who joined the team I was a part of in 2017, and immediately lifted the bar with his very presence. I consider myself fortunate to have known him, and his work.&lt;/p&gt;
+&lt;p&gt;He created a one-page PDF file with handy &lt;a href=&#34;https://en.wikipedia.org/wiki/Tmux&#34;&gt;tmux&lt;/a&gt; invocations that I found particularly helpful, and posted it on his website for the world to see. Recently I tried to reference that sheet again, but found that his site was no more. I find that fact sad, as I believe in the web and everything it could be, but I do not judge his decision on a personal level.&lt;/p&gt;
+&lt;p&gt;I reached out and as the gentleman he is, he graciously pulled the file from his archives, and allowed me to share it here with the rest of the world. So if you’re the kind of person who, like me, want a cheatsheet for tmux, here it is:&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;my_tmux_cheatsheet.pdf&#34;&gt;&lt;img src=&#34;https://philip.mallegolhansen.com/blog/tmux-cheatsheet/my_tmux_cheatsheet.pdf&#34;
+    alt=&#34;A link to the tmux cheatsheet pdf.&#34;&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

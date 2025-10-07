@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Philip Mallegol-Hansen</title>
+    <link>/tags/work/</link>
+    <description>Philip Mallegol-Hansen (Work)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Thu, 04 Apr 2024 21:58:15 -0700</lastBuildDate>
+    
+    <atom:link href="/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Is It That I Do?</title>
+      <link>/blog/what-is-it-that-i-do/</link>
+      <pubDate>Thu, 04 Apr 2024 21:58:15 -0700</pubDate>
+      
+      <guid>/blog/what-is-it-that-i-do/</guid>
+      <description>&lt;p&gt;Recently someone close to me asked that I explain what exactly it is that I do at my job.&lt;/p&gt;
+&lt;p&gt;At first I was stunned by the question. How could someone who plays a key role in my life, not already know how I spend half my waking hours? Why hadn’t they asked years earlier? Do we all just spend our lives not really having a clue what everyone else around us is up to?&lt;/p&gt;
+&lt;p&gt;In the end I concluded I might as well write down my answer, perhaps someone else will find it useful one day.&lt;/p&gt;
+&lt;h2 id=&#34;senior-consultant&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#senior-consultant&#34;&gt;
+        #
+    &lt;/a&gt;
+    Senior Consultant
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;On my little business card it says “Philip Mallegol-Hansen, Senior Consultant”, though frankly I don’t find that description all that useful. First let’s break it down into it’s two terms.&lt;/p&gt;
+&lt;h3 id=&#34;senior&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#senior&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Senior
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;p&gt;What does senior mean? It means there’s someone else whose job is “Consultant”, that person doesn’t get paid quite as much as I do, and presumably they’re slightly worse at their job than I am. I’m not really a fan of senior, it implies some kind of finality in my mind. If I’m the senior one, there’s no such thing as senior-senior right? Senior is the top of the pole? Wrong.&lt;/p&gt;
+&lt;p&gt;Senior is in fact second lowest on the list, second only to “consultant”, beyond “senior” there is “principal”&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, “senior principal”&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, “director”, and more. In the end “senior” isn’t much more than an indicator of how much I get paid relative to my colleagues.&lt;/p&gt;
+&lt;h3 id=&#34;consultant&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#consultant&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Consultant
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;p&gt;Consultant then, what does that mean? Well… it’s complicated. First I should point out that there are many distinct areas of expertise in which one could be a consultant.&lt;/p&gt;
+&lt;p&gt;I find that most people assume a consultant is an &lt;a href=&#34;https://en.wikipedia.org/wiki/Master_of_Business_Administration&#34;&gt;MBA&lt;/a&gt; type whose purpose in life is to come into a company, help leadership cut the staff by 80%, and force the remaining 20% to do 120% of the work the team previously managed. Those people may absolutely exist, and it may even be true they represent a large proportion of all “Consultants” out there, but that isn’t me.&lt;/p&gt;
+&lt;p&gt;My area of expertise is broadly “Technology”, and more specifically I would describe it as: A deep understanding of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;Agile&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/DevOps&#34;&gt;DevOps&lt;/a&gt;, and &lt;a href=&#34;https://en.wikipedia.org/wiki/Site_reliability_engineering&#34;&gt;SRE&lt;/a&gt; movements, and how they help us develop better software - Particularly the backend server kind.&lt;/p&gt;
+&lt;p&gt;Alright that’s a lot of words, maybe it makes sense my business card doesn’t say “Senior Agile, DevOps, and SRE informed backend server software Consultant”, but it really does require that level of specificity to even get a hint of what I &lt;em&gt;actually&lt;/em&gt; do.&lt;/p&gt;
+&lt;p&gt;With that idea of a slightly more exacting job title in hand, what does such a person actually do day-to-day? I would categorize these tasks in two distinct buckets. “The work” and “The work around the work”.&lt;/p&gt;
+&lt;h2 id=&#34;the-work&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#the-work&#34;&gt;
+        #
+    &lt;/a&gt;
+    The Work
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;9 AM, I have my coffee all ready to go, I roll into my home office and turn on the computer. What is my job again?&lt;/p&gt;
+&lt;p&gt;As a consultant, I’m a contractor. Meaning on paper I work full-time for my employer (&lt;a href=&#34;https://www.slalom.com/us/en&#34;&gt;Slalom&lt;/a&gt;), but the actual work I do isn’t for my employer, it’s for my client. Just like when you call the plumber and someone comes out to do work on your house, my client has contacted my employer to get me to “come out” and do some work for them.&lt;/p&gt;
+&lt;p&gt;The clients vary, they can be anything between large world-famous corporations, local governments, small local firms I haven’t even heard of myself, or something in between. The people I work with tend to be IT / Software Engineering organizations within those companies.&lt;/p&gt;
+&lt;p&gt;Depending on the particular project, that might look more like getting on a video call with one or more engineers, and coaching them through something they haven’t done before, or it might be creating PowerPoint slide shows to convince their managers (or their managers’ managers) that investing in your technology department is actually a good idea&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;I don’t get to spend all that much time deeply focusing on a problem like I used to as an engineer, I’m definitely living on the &lt;a href=&#34;https://paulgraham.com/makersschedule.html&#34;&gt;manager’s schedule&lt;/a&gt; most days. An average day seems to be some combination of writing small snippets of code to demonstrate a lesson, fighting organizational bureaucracy to gain the access I need to my client’s systems to actually execute on the work they’re paying for me to do&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, creating slide decks, meeting with clients and colleagues, and handling project management systems.&lt;/p&gt;
+&lt;h2 id=&#34;the-work-around-the-work&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#the-work-around-the-work&#34;&gt;
+        #
+    &lt;/a&gt;
+    The Work Around The Work
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;The nature of consulting is such that at times I’m not working on a project for a client, but rather working on a task for my employer, generally in the pursuit of more contracts for us to work on in the future.&lt;/p&gt;
+&lt;p&gt;The work generally known as “pursuit” is a combination of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Posting stuff on LinkedIn that might entice potential clients to reach out to us, showing up at conferences, or local communities with the same purpose. That which is commonly known as “networking”.&lt;/li&gt;
+&lt;li&gt;Meeting directly with potential clients to hear about what problem they are trying to solve, and believe we might be of assistance with.&lt;/li&gt;
+&lt;li&gt;Writing business proposals based on the conversations above, and pitching potential clients on these proposals to win business.&lt;/li&gt;
+&lt;li&gt;Assuming business is won, writing the contracts that more accurately and formally spell out what it is we are agreeing to do on behalf of our clients, and the compensation they will pay in return.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Besides the activities that can directly be seen as pursuit, there are a number of other activities that support our business less directly, like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mentoring other consultants on the things I know, enabling them to take on new work in the future.&lt;/li&gt;
+&lt;li&gt;Creating demo projects involving technologies or methodologies we don’t currently offer, as a jumping off point for others to (hopefully) see the promise in an offering I believe we should add to our toolbelt.&lt;/li&gt;
+&lt;li&gt;Organizing team building activities - Given that we generally work with our clients on a daily basis, not the other consultants in our company, team building is particularly tricky in the consulting space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#conclusion&#34;&gt;
+        #
+    &lt;/a&gt;
+    Conclusion
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;I could probably say a bunch more, but this is already getting long. I hope I’ve at least offered you a sliver of an idea of what a “Senior Consultant” with a focus on software development might do with his day.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;“Most important” according to &lt;a href=&#34;https://www.merriam-webster.com/dictionary/principal&#34;&gt;Merriam-Webster&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;How can something be more senior than principal, when the word principal rather explicitly means the top? Who knows.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;For some reason that’s an easier sell when it comes from me, a third party you don’t know, than your own employees… I wish it weren’t so.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;It has once happened that a client paid for &lt;em&gt;weeks&lt;/em&gt; of my time, without having anything for me to do, because of this bureaucratic battle&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

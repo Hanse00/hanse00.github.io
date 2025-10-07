@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Philip Mallegol-Hansen</title>
+    <link>/tags/business/</link>
+    <description>Philip Mallegol-Hansen (Business)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Mon, 31 Mar 2025 22:05:00 -0700</lastBuildDate>
+    
+    <atom:link href="/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Senseless Policy</title>
+      <link>/blog/senseless-policy/</link>
+      <pubDate>Mon, 31 Mar 2025 22:05:00 -0700</pubDate>
+      
+      <guid>/blog/senseless-policy/</guid>
+      <description>&lt;p&gt;The world is full of laws, policies, and rules that fall apart at the slightest iterrogation. Today I was met with one of those.&lt;/p&gt;
+&lt;p&gt;I found myself at Best Buy returning a recently purchased power strip because it didn&amp;rsquo;t fulfil my needs. Specifically it had 12 plugs, but the layout was such that in reality only one pair of 6, or the other 6, could be used at any particular time.&lt;/p&gt;
+&lt;p&gt;After handling the return, which involved no questions beyond &amp;ldquo;Did you open it?&amp;rdquo;, and resulted in a full refund to my credit card, I decided to go see if I could find an alternate model that would do.&lt;/p&gt;
+&lt;p&gt;I found a new strip that, based on the box art, seemed like it had more margin between plugs such that I could actually use them simultaneously. But having been recently burned I found a store employee, and asked if he&amp;rsquo;d mind opening the box so I could check out the product.&lt;/p&gt;
+&lt;p&gt;The employee in question, undoubtly &lt;em&gt;just following policy&lt;/em&gt; checked the box, and confirmed that we could have a look but only because there was no tape in our way. Had there been, we would have been unable to open the box together because that would turn the product into &amp;ldquo;open box&amp;rdquo; inventory (Which gets sold for slightly less).&lt;/p&gt;
+&lt;p&gt;On the surface that &lt;em&gt;might&lt;/em&gt; sound like a reaonable policy, but after just a moment of thought it should be obvious that, had the employee not allowed me to inspect the product, I could simply: Buy it, open the box after completing the transaction, decide I didn&amp;rsquo;t want it, and get an immediate refund.&lt;/p&gt;
+&lt;p&gt;Not only would that leave the store with the same piece of opened inventory, but they&amp;rsquo;d also be out the credit card processing fees involved in charging and refunding me. Not to mention giving me a worse customer service interaction.&lt;/p&gt;
+&lt;p&gt;It is a great little example of why it&amp;rsquo;s so important that we think about the whole when we engage with designing and building systems, and consider the outcomes in aggregate. Someone probably thought it was a reasonable policy to say &amp;ldquo;We shouldn&amp;rsquo;t open products&amp;rdquo;, but in totality it flies in the face of &amp;ldquo;We should make money by selling products to customers&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

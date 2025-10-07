@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GenAI on Philip Mallegol-Hansen</title>
+    <link>/tags/genai/</link>
+    <description>Philip Mallegol-Hansen (GenAI)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Wed, 29 May 2024 18:57:00 -0700</lastBuildDate>
+    
+    <atom:link href="/tags/genai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Does AI Work?</title>
+      <link>/blog/how-does-ai-work/</link>
+      <pubDate>Wed, 29 May 2024 18:57:00 -0700</pubDate>
+      
+      <guid>/blog/how-does-ai-work/</guid>
+      <description>&lt;p&gt;The topic of computer AI (Artificial Inteligence) has taken a foothold in the mainstream since &lt;a href=&#34;https://en.wikipedia.org/wiki/OpenAI&#34;&gt;OpenAI&lt;/a&gt; brought their &lt;a href=&#34;https://en.wikipedia.org/wiki/ChatGPT&#34;&gt;ChatGPT&lt;/a&gt; service to the masses in late 2022.&lt;/p&gt;
+&lt;p&gt;For all the media attention that this topic is now getting, a lot of the conversation I hear betrays a total lack of fundamental understanding of the topic. I am by no means an expert, it&amp;rsquo;s not the particular speciality that my own software engineering experience focuses on, but I understand enough of the basics to participate intelligently in the topic.&lt;/p&gt;
+&lt;p&gt;If you wish to achieve a similar &amp;ldquo;just enough&amp;rdquo; mastery of the topic, I can wholeheartedly recommend this series by YouTube channel &lt;a href=&#34;https://www.youtube.com/@3blue1brown&#34;&gt;3Blue1Brown&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+    &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/?listType=playlist&amp;list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&amp;autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The channel in general is excellent, and I recommend viewing his other videos as well.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m Not Worried for My Career</title>
+      <link>/blog/im-not-worried-for-my-career/</link>
+      <pubDate>Tue, 14 May 2024 10:22:00 -0700</pubDate>
+      
+      <guid>/blog/im-not-worried-for-my-career/</guid>
+      <description>&lt;p&gt;In a recent conversation, someone asked me why people should bother learning to code anymore, when GenAI&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; / LLMs&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; can just generate code for you these days.&lt;/p&gt;
+&lt;p&gt;As the output of that conversation, this is a list of reasons why I am not worried for my career.&lt;/p&gt;
+&lt;h1 id=&#34;its-not-about-writing-code&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#its-not-about-writing-code&#34;&gt;
+        ##
+    &lt;/a&gt;
+    It&amp;rsquo;s Not About Writing Code
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;It might sound conterintuitive to someone who doesn&amp;rsquo;t work in this field, but being a software developer is largely not about &lt;em&gt;developing&lt;/em&gt; software.&lt;/p&gt;
+&lt;p&gt;In other engineering diciplines, there seems to be a number of well understood and clearly distinct roles. Construction demands the input of architects, engineers, contractors, suveyors, crane operators, and a myriad of other participants.&lt;/p&gt;
+&lt;p&gt;Software is not as clear cut. I have not yet in my years on the job come across an individual whose job is strictly to write code based on plans laid by other people.&lt;/p&gt;
+&lt;p&gt;We find ourselves taking on many different roles, from sitting down with the client and trying to build an understanding of what they want the software to do, to building prototypes, to putting on the architecture hat and thinking through not just &lt;em&gt;what&lt;/em&gt; to build, but &lt;em&gt;how&lt;/em&gt; to build it so that it meets the needs set forth by our client.&lt;/p&gt;
+&lt;p&gt;Even &lt;strong&gt;if&lt;/strong&gt; we conceeded that we don&amp;rsquo;t need to type out the code anymore, the rest of the activities leave us with plenty to do.&lt;/p&gt;
+&lt;h1 id=&#34;someone-needs-to-check-the-work&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#someone-needs-to-check-the-work&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Someone Needs To Check the Work
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;Let&amp;rsquo;s say you decide to utilize a LLM to generate some code on your behalf, rather than typing it by hand.&lt;/p&gt;
+&lt;p&gt;How confident are you that the code generated is correct?&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re an experienced software engineer, you could look at the output, and if it&amp;rsquo;s fairly simple, you could confirm its correctness at a glance. If it&amp;rsquo;s more complicated, you have tools in your toolbox for that scenario too: You could write &lt;a href=&#34;https://martinfowler.com/bliki/UnitTest.html&#34;&gt;Unit Tests&lt;/a&gt; to confirm correctness for you.&lt;/p&gt;
+&lt;p&gt;In either case, your ability to confirm of the code does what you think it should, depends on yourself already having a mental model of how software works.&lt;/p&gt;
+&lt;p&gt;Perhaps you disagree: Why does anyone need to check the work? The software working is self-evident! If I click run, and it runs, then it works.&lt;/p&gt;
+&lt;p&gt;To that I would say: You underestimate the subtle and disasterous ways in which systems can fail, that aren&amp;rsquo;t obvious. What would happen, if someone had &lt;a href=&#34;https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/&#34;&gt;NULL as their license plate&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;Replace &amp;ldquo;LLM&amp;rdquo; with &amp;ldquo;Stack Overflow&amp;rdquo;, and you&amp;rsquo;ll find that this isn&amp;rsquo;t a new problem in our industry. There have always been those who tried to get away with not really knowing what they were doing.&lt;/p&gt;
+&lt;h1 id=&#34;whos-code-is-it&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#whos-code-is-it&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Who&amp;rsquo;s Code Is It?
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m definitely not a lawyer, so forgive me for any inacuracies here.&lt;/p&gt;
+&lt;p&gt;In general, in the U.S., when someone pays you to write something for them, the something you&amp;rsquo;ve written is now their property.&lt;/p&gt;
+&lt;p&gt;Seems simple enough. A client hires me to write an application for them, I do, I get paid, they have an app. Whatever they do from there is up to them.&lt;/p&gt;
+&lt;p&gt;They can hire me to come make modifications in the future, they can hire someone else, they can toss it asside and decide to do something else entirely.&lt;/p&gt;
+&lt;p&gt;But what if the code I &lt;em&gt;wrote&lt;/em&gt; for them was never &lt;em&gt;mine&lt;/em&gt; in the first place?&lt;/p&gt;
+&lt;p&gt;Legal battles are unfolding to answer questions exactly like this, &lt;a href=&#34;https://githubcopilotlitigation.com/&#34;&gt;developers are suing GitHub&lt;/a&gt;, and &lt;a href=&#34;https://www.reuters.com/legal/transactional/ny-times-sues-openai-microsoft-infringing-copyrighted-work-2023-12-27/&#34;&gt;newspapers are suing OpenAI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;What exactly the answers to these legal questions will be, I don&amp;rsquo;t know. But if I was hiring people to do work for me, I&amp;rsquo;d err on the side of wanting to be confident the work actually belongs to me.&lt;/p&gt;
+&lt;h1 id=&#34;the-computer-knows-how---not-why&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#the-computer-knows-how---not-why&#34;&gt;
+        ##
+    &lt;/a&gt;
+    The Computer Knows How - Not Why
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;Drawing another analogy to the physical world: there are &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_bridge_types&#34;&gt;many ways to build a bridge&lt;/a&gt;. Each bridge type undoubtedly has a laundry list of pros and cons, costs, time to build, difficulty to service, ability to withstand natural disassters, and more. I&amp;rsquo;m not a civil engineer, and I have no idea how these different bridge types stack up against each other. But I mention all of this, because the same characteristics are true about software.&lt;/p&gt;
+&lt;p&gt;There are many ways to build working software, from monoliths to microservices, dynamic vs. statically linked dependencies, object oriented vs. functional. As with bridges, there are many choices to make along the way when designing software, and there is no one &lt;em&gt;correct&lt;/em&gt; answer. It takes understanding the context in which you are building, to make the best possible choice.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Are we trying to get someone out the door as fast as possible, to demo to potential investors, so that we can get money to build the &lt;em&gt;real thing&lt;/em&gt; later?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Are we building in a life-or-death scenario, where the guaranteed correctness of our software outweighs financial concerns?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do we anticipate that our code will be in use for months, years, or decades? The longer it is, the more likely we will need to deal with transitioning to new hardware, new maintanence staff, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These and more, are the kinds of considerations that set you up to design software fit for its purpose. As it stands, there&amp;rsquo;s no indication LLMs will be capable of taking on this mental labor.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Generative Artificial Intelligence.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Large Language Models.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

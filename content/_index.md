@@ -1,4 +1,0 @@
-+++
-[sitemap]
-    changefreq = 'daily'
-+++

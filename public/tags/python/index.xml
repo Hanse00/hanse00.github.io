@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Philip Mallegol-Hansen</title>
+    <link>/tags/python/</link>
+    <description>Philip Mallegol-Hansen (Python)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Mon, 06 May 2024 15:44:14 -0700</lastBuildDate>
+    
+    <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Panel Custom Auth</title>
+      <link>/blog/panel-custom-auth/</link>
+      <pubDate>Mon, 06 May 2024 15:44:14 -0700</pubDate>
+      
+      <guid>/blog/panel-custom-auth/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently been using the &lt;a href=&#34;https://panel.holoviz.org&#34;&gt;Panel&lt;/a&gt; framework on a Python project.&lt;/p&gt;
+&lt;p&gt;Deep in the bowels of the documentation, it is &lt;a href=&#34;https://panel.holoviz.org/how_to/authentication/providers.html#plugins&#34;&gt;mentioned&lt;/a&gt; that a custom auth plugin can be provided if a project needs to use a different authentication mechanism than those bundled with the framework, which is exactly what I needed.&lt;/p&gt;
+&lt;p&gt;However between the vague docs, and the seeming lack of others actually having gone through with this option, it took me a while to figure out.&lt;/p&gt;
+&lt;p&gt;And so, as any good &lt;a href=&#34;https://en.wikipedia.org/wiki/Netizen&#34;&gt;netizen&lt;/a&gt; I&amp;rsquo;m here to show you how I did it.&lt;/p&gt;
+&lt;h2 id=&#34;solution&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#solution&#34;&gt;
+        #
+    &lt;/a&gt;
+    Solution
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;re just looking for some code you can reference, here it is.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like to learn more about how I got there, please read on.&lt;/p&gt;
+&lt;script src=&#34;https://gist.github.com/hanse00/9091a1deac10d3162b0e33e74cc3c1fe.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Note: I had to transcribe the code by hand, so be aware of potential typos.&lt;/p&gt;
+&lt;h2 id=&#34;commentary&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#commentary&#34;&gt;
+        #
+    &lt;/a&gt;
+    Commentary
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;As is often the case, I found it helpful to start with carefully reviewing the closest thing I could find to an existing solution.&lt;/p&gt;
+&lt;p&gt;The Panel framework ships with a set of OAuth providers, and a &amp;ldquo;Basic Auth&amp;rdquo; provider. Given that the backend I needed to authenticate against is also a plain old username/password situation, the basic auth provider was my starting point.&lt;/p&gt;
+&lt;p&gt;What didn&amp;rsquo;t work for me, was that the basic auth provider allows you to configure only one set of credentials, a specific username and password combination that anything entered will be checked against.&lt;/p&gt;
+&lt;p&gt;So I went digging to figure out how exactly it was implemented.&lt;/p&gt;
+&lt;p&gt;What I found was a set &lt;a href=&#34;https://github.com/holoviz/panel/blob/e6f658f6663b55ee9c5ecbdafd0e8235547bc5a1/panel/auth.py#L798&#34;&gt;LoginHandler&lt;/a&gt; and &lt;a href=&#34;https://github.com/holoviz/panel/blob/e6f658f6663b55ee9c5ecbdafd0e8235547bc5a1/panel/auth.py#L878&#34;&gt;AuthProvider&lt;/a&gt; objects that &lt;em&gt;nearly&lt;/em&gt; did what I needed. Unfortunately the aspects I needed to change weren&amp;rsquo;t trivially configurable in the existing objects, so I opted to wholesale copy and modify them.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The outstanding task then was getting my panel application to actually load my auth provider. The &lt;code&gt;panel.serve&lt;/code&gt; function takes opaque set of key value arguments&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; that get passed down a rather lengthy call chain. Figuring out which of the auth related parameters would actually allow me to pass a specific object, rather than something like the name of a built-in auth provider, took a bit of spelunking with my debugger, but we got there in the end.&lt;/p&gt;
+&lt;p&gt;In the end I think the moral of that whole story is: Debuggers are invaluable. I understand it might be intimidating to figure out how to wrangle a proper debugger, especially when it seems like print statements can get you 90% of the way. But I truly believe it&amp;rsquo;s a worthwhile endeavor to sit down and put a bit of effort into.&lt;/p&gt;
+&lt;p&gt;Especially when it comes to figuring out a long call chain between third party dependencies, there&amp;rsquo;s really nothing like it.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;If anyone is looking for a side quest, I think it would be a great idea for the framework itself to contain versions of these objects where the authentication mechanism itself was the only thing that got plugged in, for maximum code reuse.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;I understand it&amp;rsquo;s a common pattern, but I don&amp;rsquo;t love it.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
